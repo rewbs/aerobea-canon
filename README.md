@@ -6,6 +6,7 @@ This repository contains the canonical lore for Saul's imaginary countries.
 
 - **[Countries](countries/README.md)** - Browse all countries with detailed histories, governments, and cultures
 - **[Historical Figures](figures/README.md)** - Explore biographies of presidents, prime ministers, and notable figures
+- **[Comparative Analysis](analysis/README.md)** - In-depth comparative studies of political, historical, and cultural themes
 - `events/` - Major historical events and timelines (to be developed)
 - `relations/` - International relations and treaties (to be developed)
 
@@ -23,6 +24,9 @@ This repository contains the canonical lore for Saul's imaginary countries.
 - [Commander Nullglyph](figures/commander-nullglyph.md) - Three-term president who survived a coup (Aerobea)
 - [Lord Cathnater](figures/lord-cathnater.md) - Longest-serving Prime Minister (Aurob)
 - [Feathery Quill](figures/feathery-quill.md) - First avian president (Aerobea)
+
+### Featured Analysis
+- [Political Parties Comparison](analysis/political-parties-comparison.md) - Comprehensive analysis of political parties across all countries, examining ideologies, stability, and multi-species democracy
 
 ## Usage
 
