@@ -1,9 +1,9 @@
 ---
 name: Commander Nullglyph
 birth: 30 June 1717
-death: 29 April 1797
+death: After 1787
 nationality: Aerobea
-role: President of Aerobea (three terms)
+role: President of Aerobea (two terms, 1745-1761)
 species: human
 gender: male
 ---
@@ -12,7 +12,7 @@ gender: male
 
 ## Overview
 
-Commander Nullglyph was a Whig politician and military leader who served as President of Aerobea across three non-consecutive terms (1761-1777, 1777-1779, and 1785-1787). He is best known for surviving a coup attempt by the radical Emory Di Marison in 1777 and successfully retaking power just months later. His ability to regain the presidency after being forcibly removed, and then win election again years later, demonstrates both his political resilience and popular support.
+Commander Nullglyph was a Whig politician and military leader who served as President of Aerobea for two presidential terms from 1745 to 1761. During his presidency, Aerobea developed its early institutions and air fleets, laying the groundwork for the nation's future prosperity. After retiring from office in 1761, he went on to found the Nullglyphite movement in 1787, inspiring reformists and creating lasting political division between Whigs and Nullglyphites. **Note:** Some historical sources indicate additional service periods in 1777-1779 and 1785-1787, though these conflict with the canonical timeline placing his main presidency at 1745-1761.
 
 ## Early Life
 
@@ -22,50 +22,39 @@ By the 1750s, Nullglyph had become a prominent figure in Whig Party politics, kn
 
 ## Political and Military Career
 
-### First Presidency (26 October 1761 - 18 November 1777)
+### Presidency (1745-1761)
 
-Nullglyph assumed office on 26 October 1761 following the resignation of President Valu Jezza. His first term lasted nearly 16 years, making it one of the longer presidencies in Aerobean history at that time.
+According to the canonical timeline, Nullglyph served two presidential terms from 1745 to 1761. This 16-year period was foundational for Aerobea's development.
 
-During this period:
+During his presidency:
+- Developed Aerobea's early institutions and administrative structures
+- Oversaw the creation and expansion of Aerobea's air fleets
 - Maintained Whig political dominance
-- Oversaw a period of relative stability
 - Built a strong base of support among military and merchant classes
-- His lengthy tenure created both loyal supporters and determined opponents
+- Laid the groundwork for what would become the "Scroll Bureaucracy" of later eras
+- His tenure coincided with the final years of the Early Aerobea period (1701-1761)
 
-### The Coup and Restoration (1777)
+### Post-Presidency and the Nullglyphite Movement (1761-1787)
 
-**The Marison Coup (April-September 1777):**
+**Retirement and the War of Avex (1761):**
 
-On 9 April 1777, the radical politician Emory Di Marison seized power in a coup, forcibly removing Commander Nullglyph from office. Di Marison's radical government ruled for approximately five months, implementing dramatic changes that alarmed traditional power structures.
+When Nullglyph's presidency ended in 1761, the War of Avex began—a conflict pitting Aerobea against rival monarchies still loyal to the descendants of Emperor Chumble Vainbatter. The timing suggests Nullglyph's retirement may have been connected to the outbreak of this major conflict.
 
-**The Counter-Coup (4 September 1777):**
+**The 1780s - Nullglyphite Uprisings:**
 
-On 4 September 1777, Nullglyph successfully staged his own coup, removing Di Marison and retaking the presidency. This swift reversal demonstrated:
-- Nullglyph's continued military connections and support
-- The unpopularity of Di Marison's radical policies
-- The incomplete nature of the original coup
+During the 1780s, while still in retirement, Nullglyph became increasingly involved in political reform movements. The Nullglyphite uprisings brought internal division between traditional Whigs and the emerging Nullglyphite faction, creating significant political tension in Aerobea during the War of Avex period.
 
-Nullglyph's successful restoration was followed by Di Marison's arrest and eventual execution by burning at the stake on 3 June 1778—a controversial but common punishment for treason at the time.
+**Founding the Nullglyphite Movement (1787):**
 
-### Second Presidency (4 September 1777 - 18 November 1779)
+In 1787, at age 70, Nullglyph formally founded the Nullglyphite movement. This reformist political movement:
+- Inspired later generations of political reformers
+- Created lasting division between Whigs and Nullglyphites
+- Represented Nullglyph's vision for Aerobea's future governance
+- Influenced Aerobean politics well beyond his lifetime
 
-Nullglyph's restored presidency lasted two years before he chose to resign in favor of the Conservative Party on 18 November 1779. This resignation represented either:
-- A genuine attempt at political reconciliation after the turbulent coup period
-- Political exhaustion following the stressful coup and counter-coup
-- A strategic retreat to gather strength for a later return
+**Note on Alternative Timelines:**
 
-### Interim Period (1779-1785)
-
-During the presidency of Benjamin Jones, Nullglyph remained politically active in Whig circles. His willingness to step aside and then return demonstrated a pragmatic approach to power.
-
-### Third Presidency (18 November 1785 - 18 November 1787)
-
-Nullglyph was re-elected in 1785, returning to the presidency at age 68. This final two-year term showed:
-- His enduring popularity despite previous turbulence
-- The Whig Party's continued confidence in his leadership
-- His ability to win democratic elections after previously taking power by force
-
-He retired from office on 18 November 1787, ending his political career on his own terms.
+Some historical sources describe Nullglyph being involved in political events in 1777 (a coup and restoration) and serving additional presidential terms in 1777-1779 and 1785-1787. However, the canonical timeline places his presidency squarely in 1745-1761, with his major post-presidential achievement being the founding of the Nullglyphite movement in 1787. The 1777 events may represent different historical figures or alternative interpretations of fragmentary records.
 
 ## Personal Life
 
@@ -75,34 +64,41 @@ He never publicly discussed family or personal relationships, maintaining a focu
 
 ## Death and Legacy
 
-Commander Nullglyph died of heart failure on 29 April 1797, ten years after his final retirement from office. He was 79 years old.
+Commander Nullglyph died sometime after 1787, having lived to at least age 70 to found the Nullglyphite movement. The exact date of his death is not precisely recorded in canonical sources, though some accounts suggest 1797 at age 79.
 
-His legacy is complex:
+His legacy is significant and multifaceted:
 
-**Positive:**
-- Demonstrated resilience and ability to recover from political setbacks
-- Maintained stability during most of his terms
-- Proved democratic legitimacy by winning elections after seizing power by force
+**Presidential Achievements:**
+- Developed Aerobea's early institutions and air fleets during crucial formative period (1745-1761)
+- Provided stable leadership for 16 years during the final phase of Early Aerobea
+- Built the foundations for Aerobea's later Golden Age
 - Successfully navigated the transition from military to political leadership
 
-**Controversial:**
-- Used force to retake power in 1777, even if against a usurper
-- Presided over the execution of Emory Di Marison
-- His multiple returns to power raised questions about consolidation of political influence
+**The Nullglyphite Movement:**
+- Founded the influential Nullglyphite movement in 1787
+- Inspired generations of political reformers
+- Created lasting political realignment in Aerobean politics
+- Challenged traditional Whig orthodoxy from within the republican tradition
 
-He remains a fascinating figure in Aerobean history—neither purely democratic nor purely authoritarian, but a complex leader who adapted to circumstances while maintaining core support.
+**Historical Impact:**
+- One of the most influential figures in Aerobean history
+- His presidential tenure bridged the Early Aerobea and War of Avex eras
+- The Nullglyphite movement he founded continued to shape politics long after his death
+- Represents the evolution from military commander to statesman to political philosopher
+
+He remains a towering figure in Aerobean history—a successful president who went on to found a lasting political movement, demonstrating that retirement from office could be the beginning of a new phase of political influence rather than its end.
 
 ## Timeline
 
-- **1717:** Born in Aerobea
-- **1750s-1761:** Rose through military ranks and Whig Party leadership
-- **26 October 1761:** Assumed first presidency
-- **9 April 1777:** Removed from office by Emory Di Marison's coup
-- **4 September 1777:** Retook power by counter-coup
-- **18 November 1779:** Resigned in favor of Conservative Party
-- **18 November 1785:** Re-elected to third term
-- **18 November 1787:** Retired permanently from office
-- **29 April 1797:** Died of heart failure at age 79
+- **30 June 1717:** Born in Aerobea
+- **1730s-1745:** Rose through military ranks and Whig Party leadership, earning title "Commander"
+- **1745:** Assumed presidency (beginning of two presidential terms)
+- **1745-1761:** Served as President, developing Aerobea's early institutions and air fleets
+- **1761:** Presidency ended; War of Avex began
+- **1761-1787:** Post-presidential period; remained politically active
+- **1780s:** Nullglyphite uprisings create division between Whigs and Nullglyphites
+- **1787:** Founded the Nullglyphite movement at age 70
+- **After 1787:** Death (exact date uncertain, possibly 1797)
 
 ## Related Entities
 

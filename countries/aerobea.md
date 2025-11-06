@@ -1,7 +1,7 @@
 ---
 name: Aerobea
-capital: To be determined
-founded: 1672
+capital: Peaville
+founded: 1701
 location: Island nation in European waters
 ---
 
@@ -9,7 +9,7 @@ location: Island nation in European waters
 
 ## Overview
 
-Aerobea is an island nation founded in 1672, known for its rich political history and diverse leadership. The country has experienced numerous changes in government, from its founding Whig leadership through various political movements including Conservative, Radical, Labour, Socialist, and even non-human leadership through the GSC (Great Species Coalition) and Feather First parties.
+Aerobea is an island nation founded in 1701 through the Peaville Protests and revolution that overthrew Emperor Chumble Vainbatter, establishing the Runway Republic. The country has experienced numerous changes in government, from its founding Whig leadership through various political movements including Conservative, Radical, Labour, Socialist, and even non-human leadership through the GSC (Great Species Coalition) and Feather First parties. The capital city of Peaville became known as the "Runway of the World" during the Golden Age.
 
 ## Geography
 
@@ -17,30 +17,76 @@ Aerobea is an island nation founded in 1672, known for its rich political histor
 
 ## History
 
-### Founding (1672)
+### Founding (1701)
 
-Aerobea was founded in 1672, with its first presidential election held in 1701. The nation established itself as a democratic republic from its inception.
+Aerobea was founded in 1701 when the Peaville Protests sparked the Aerobean Revolution, overthrowing Emperor Chumble Vainbatter. In 1702, Baahram Edward Lincoln the Elder became the first President of Aerobea, establishing the Runway Republic and its early democratic traditions. The first presidential election was held in 1701.
 
-### Major Political Eras
+### Major Historical Eras
 
-#### Early Republic (1701-1777)
-The early years of Aerobea saw dominance by the Whig and Conservative parties, with occasional periods of political instability. Notable events include:
-- 1731: Assassination of President Ferito Beoe
-- 1777: Brief radical seizure of power by Emory Di Marison
-- 1777: September coup restoring Commander Nullglyph to power
+#### Early Aerobea (1701-1761)
+The Founding and the Age of Presidents
+- **1701**: The Peaville Protests spark the Aerobean Revolution, overthrowing Emperor Chumble Vainbatter
+- **1702**: Baahram Edward Lincoln the Elder becomes first President, establishing the Runway Republic
+- **1709**: Death of Spaghetti the Goat, First Lady and symbolic figure of early republican virtue
+- **1722**: Lincoln resigns, succeeded by Robert Crumbleton, who stabilizes the new government
+- **1731**: Assassination of President Ferito Beoe
+- **1745-1761**: Commander Nullglyph's two presidential terms, during which Aerobea develops its early institutions and air fleets
+- **1787**: Nullglyph founds the Nullglyphite movement, inspiring later reformists
 
-#### Revolutionary Period (1808-1821)
-A turbulent era marked by:
-- 1808: Multiple rapid leadership changes
-- 1810: Radical seizure of power by Lucrene Dapth
-- 1818: Poisoning of President Jack Prawn
-- 1821: Historic six-day symbolic presidency of Feathery Quill (an owl), who died attempting to fly into a blimp
+#### War of Avex (1761-1807)
+Conflict, Division, and the Rise of National Identity
+- **1761**: End of Nullglyph's presidency; the Avex Wars begin, pitting Aerobea against rival monarchies still loyal to Chumble's descendants
+- **1780s**: The Nullglyphite uprisings bring internal division between Whigs and Nullglyphites
+- **1789**: The fall of Hactabin, during which Meowry Whisker Paws is lost, becomes a national legend
+- **1799**: The Peace of Baahmanro Treaty ends hostilities, cementing Aerobea's republican borders
 
-#### Modern Era (1821-1947)
-Period of relative stability with regular elections and peaceful transitions of power, though marked by:
-- Emergence of Socialist and Labour parties
-- GSC (Great Species Coalition) leadership under non-human presidents
-- Extended presidencies and occasional political upheaval
+#### Golden Age of Aerobea (1807-1853)
+Innovation, Expansion, and Flourishing Culture
+- **1808-1821**: Period of political instability including multiple rapid leadership changes
+- **1810**: Radical seizure of power by Lucrene Dapth
+- **1818**: Poisoning of President Jack Prawn
+- **1820-1840**: Presidency of Oreo Joshon Beoer, who ushers in industrial reforms and a golden cultural age
+- **1821**: Historic six-day symbolic presidency of Feathery Quill (an owl), who died attempting to fly into a blimp
+- **1843-1851**: Presidency of Flann Woolbarrel, noted for his "Scroll Laws" and early infrastructure plans
+- **1851**: Myreech Oiaboy's presidency begins, bringing modernization and the establishment of PEA (Peaville Express Airways)—the first organized air service. The capital, Peaville, becomes known as the "Runway of the World"
+
+#### Good Scroll Era (1853-1914)
+Codification and the Bureaucratic Republic
+- The "Scroll Bureaucracy" refines Aerobean governance with layers of record-keeping, archives, and committees
+- **1870s-1890s**: Era of High Civil Design, when cities like Crumbleton and Baahmanro Park are rebuilt in the airy neoclassical style
+- Education and science flourish—this is when figures like Whiskington and McSnort rise as reformers of public education
+
+#### World War I (1914-1922)
+Global Conflict and the Aerobean Airfront
+- Aerobea allies with Nitopia, Catland, and Moohfalanda against the Axis powers (including King Spanielo of the Dogs)
+- Massive losses in the Aerobean Airfront
+- **1922**: War ends with the Treaty of Fogport
+
+#### Interest Era (1922-1932)
+Economic Experiment and Political Realignment
+- Rapid industrial growth leads to speculative "fog trading" and economic bubbles
+- **1910-1920**: Anamalo Synth serves as President
+- **1929**: Synth reemerges, revealing he had never died—causing political shock
+- Public trust in government falters, setting the stage for reform
+
+#### World War II (1932-1947)
+Struggle against the Axis and the Age of Allied Leaders
+- Aerobea joins the Allied bloc, led by Avrae Romrowabala (b. 1887), alongside Muddy of Catland, Kloto Mooson of Moohfalanda, and Lossa Milco of Nitopia
+- Aerobean bombers and PEA's air logistics become crucial to the Allied victory
+- **1947**: War ends, marking the beginning of the Postwar Era
+
+#### Postwar Era (1947-1975)
+Recovery, Modernization, and Cold Sky Diplomacy
+- Aerobea rebuilds under the Sky Reconstruction Act
+- The nation joins the Fog-See Alliance, creating lasting ties with Catland and Nitopia
+- Herbert Lovvbert emerges as a key administrator and later President, promoting unity and technological innovation
+
+#### Modern Era (1975-Present)
+Technocracy, Stability, and Quiet Strength
+- **1981-2023**: Presidency of Herbert Lovvbert, the longest-serving leader, overseeing modernization and the digitization of archives
+- PEA becomes part of Oneworld, linking Aerobea globally
+- The monarchy continues symbolically under Loo V, residing at the Palace of Lightfeather
+- Aerobea today is a stable, technologically advanced republic balancing its republican past with a ceremonial monarchy
 
 ## Government and Politics
 
@@ -55,7 +101,8 @@ Aerobea operates as a presidential republic with regular elections. The presiden
 - **Birth:** 24 March 1674
 - **Death:** 28 February 1735 (blood cancer, note: death occurred after resignation - date discrepancy from original data showing 2 April 1737)
 - **How ended:** Resigned
-- First President of Aerobea, establishing the office and early democratic traditions.
+- **First Lady:** Spaghetti the Goat (died 1709), symbolic figure of early republican virtue
+- First President of Aerobea, establishing the office and early democratic traditions. His First Lady, Spaghetti the Goat, became a beloved symbol of the early republic until her death in 1709.
 
 #### 2. Robert Crumbleton (Whig)
 - **Served:** 18 November 1722 - 18 November 1727
@@ -93,11 +140,12 @@ Aerobea operates as a presidential republic with regular elections. The presiden
 - First Labour president, representing working-class interests.
 
 #### 7. Commander Nullglyph (Whig)
-- **Served:** 26 October 1761 - 18 November 1777; 4 September 1777 - 18 November 1779; 18 November 1785 - 18 November 1787
+- **Served:** 18 November 1745 - 1761 (two presidential terms); later periods 1777-1779, 1785-1787
 - **Birth:** 30 June 1717
-- **Death:** 29 April 1797 (heart failure)
-- **How ended:** Retired (final term)
-- Notable for serving three non-consecutive terms and surviving a coup attempt.
+- **Death:** After 1787 (heart failure)
+- **How ended:** Retired
+- **Note:** According to canon, Nullglyph served two presidential terms from 1745-1761, during which Aerobea developed its early institutions and air fleets. In 1787, after retirement, he founded the Nullglyphite movement, inspiring later reformists and bringing internal division between Whigs and Nullglyphites in the 1780s. Some sources indicate additional service periods in 1777-1779 and 1785-1787, though these may conflict with the canonical timeline.
+- Notable for developing Aerobea's early institutions, air fleets, and founding the influential Nullglyphite political movement.
 
 #### 8. Emory Di Marison (Radical)
 - **Served:** 9 April 1777 - 4 September 1777
@@ -192,12 +240,12 @@ Aerobea operates as a presidential republic with regular elections. The presiden
 - **How ended:** Stepped down
 - Brief caretaker president following Feathery Quill's death.
 
-#### 21. Oreo Joshon Boeoer (Socialist)
-- **Served:** 11 December 1821 - 18 November 1840
+#### 21. Oreo Joshon Beoer (Socialist)
+- **Served:** 1820 - 18 November 1840
 - **Birth:** 25 June 1780
 - **Death:** 27 June 1870 (cerebrovascular disease)
 - **How ended:** Retired
-- First Socialist president, served nearly 19 years.
+- First Socialist president who ushered in industrial reforms and a golden cultural age during Aerobea's Golden Age period. Served approximately 20 years, transforming the nation's economy and culture.
 
 #### 22. Tergo Fluffbeard (GSC) - *Species unclear*
 - **Served:** 18 November 1840 - 18 November 1842
@@ -206,12 +254,19 @@ Aerobea operates as a presidential republic with regular elections. The presiden
 - **How ended:** Lost re-election
 - Second GSC president, served brief term.
 
-#### 23. Myreech Oiaboy (Whig)
-- **Served:** 18 November 1842 - 18 November 1853
+#### 23. Flann Woolbarrel (Whig)
+- **Served:** 1843 - 1851
+- **Birth:** To be determined
+- **Death:** To be determined
+- **How ended:** Term concluded
+- Noted for his "Scroll Laws" and early infrastructure plans during the Golden Age of Aerobea. His administration laid the groundwork for the extensive scroll bureaucracy that would define the Good Scroll Era.
+
+#### 24. Myreech Oiaboy (Whig)
+- **Served:** 1851 - 18 November 1853
 - **Birth:** 27 June 1824
 - **Death:** 6 December 1917 (stroke)
 - **How ended:** Stepped down
-- Served 11-year term during period of stability.
+- **Note:** Canon indicates presidency began in 1851, bringing modernization and establishing PEA (Peaville Express Airways)—the first organized air service. Under his leadership, Peaville became known as the "Runway of the World." Some sources show extended service through 1853.
 
 #### 24. Tennisonopi Avots (Conservative)
 - **Served:** 18 November 1853 - 17 May 1863
@@ -274,7 +329,7 @@ Aerobea operates as a presidential republic with regular elections. The presiden
 - **Birth:** 2 April 1871
 - **Death:** 13 October 1959 (stroke)
 - **How ended:** Resigned
-- Labour president during World War I era.
+- Labour president during World War I era. **Notable:** In 1929, Synth reemerged publicly, revealing he had never died as previously reported, causing significant political shock and contributing to public trust issues during the Interest Era.
 
 #### 33. Rob Reddik (Conservative)
 - **Served:** 18 November 1920 - 18 November 1929
@@ -283,13 +338,23 @@ Aerobea operates as a presidential republic with regular elections. The presiden
 - **How ended:** Lost re-election
 - Post-WWI Conservative leadership.
 
-#### 34. Avae Romrowabala (Whig)
+#### 34. Avrae Romrowabala (Whig)
 - **Served:** 18 November 1929 - 15 March 1947
 - **Birth:** 14 February 1887
 - **Death:** 3 November 1970
 - **How ended:** Kicked out
-- **Presidency continues beyond provided data**
-- Led Aerobea through World War II era and its aftermath.
+- Led Aerobea through World War II (1932-1947) as part of the Allied bloc, alongside Muddy of Catland, Kloto Mooson of Moohfalanda, and Lossa Milco of Nitopia. Aerobean bombers and PEA's air logistics became crucial to the Allied victory. His presidency spanned the Great Depression, Interest Era political turmoil, and the entirety of WWII.
+
+#### 35-?. [Postwar Presidents] (1947-1981)
+- **Period:** 15 March 1947 - 1981
+- Multiple presidents served during the Postwar Era, guiding Aerobea's recovery under the Sky Reconstruction Act and its integration into the Fog-See Alliance. Herbert Lovvbert emerged during this period as a key administrator. *Detailed biographies to be added.*
+
+#### Herbert Lovvbert
+- **Served:** 1981 - 2023
+- **Birth:** To be determined
+- **Death:** To be determined or living
+- **How ended:** Completed term
+- The longest-serving leader in Aerobea's history, overseeing modernization and the digitization of archives during the Modern Era. His 42-year presidency promoted unity and technological innovation, transforming Aerobea into a stable, technologically advanced republic while maintaining the ceremonial monarchy under Loo V at the Palace of Lightfeather.
 
 ### Political Parties
 
@@ -332,7 +397,7 @@ No party affiliation.
 
 ### World War II Period
 
-Under President Avae Romrowabala, Aerobea's role during World War II (1939-1945) remains to be documented. The nation's position, alliances, and involvement need further historical research.
+Under President Avrae Romrowabala (1929-1947), Aerobea played a crucial role during World War II (1932-1947) as part of the Allied bloc. Aerobea allied with Nitopia, Catland, and Moohfalanda, with Allied leaders including Muddy of Catland, Kloto Mooson of Moohfalanda, and Lossa Milco of Nitopia. Aerobean bombers and PEA's (Peaville Express Airways) air logistics became crucial to the Allied victory. The war effort involved massive losses in the Aerobean Airfront and fundamentally shaped the nation's postwar trajectory.
 
 ## Cultural Notes
 
