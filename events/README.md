@@ -20,6 +20,9 @@ This directory contains documentation of major historical events that have shape
 - [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Founding of regional cooperation organization uniting democratic nations
 - [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md) - Resolution of Cattle-Wool Trade Dispute through Aerobean mediation
 
+**Constitutional Oddities**
+- [1853 Accidental Monarchy Restoration](1853-accidental-monarchy-restoration.md) - How Aerobea accidentally acquired a ceremonial monarch through a scroll filing error
+
 ### Chronological Index
 
 #### 18th Century
@@ -29,6 +32,17 @@ This directory contains documentation of major historical events that have shape
   - Radical leader Emory Di Marison overthrown after five-month regime
   - Commander Nullglyph restored to presidency
   - Di Marison executed by burning in 1778
+
+#### 19th Century
+
+**1853**
+- [1853 Accidental Monarchy Restoration](1853-accidental-monarchy-restoration.md) (July 1853)
+  - Junior Scroll Clerk Flopsy Penfeather creates requisition for ceremonial monarch
+  - Requisition filed in triplicate becomes legally binding
+  - King Loo I borrowed from Nitopia to fulfill bureaucratic obligation
+  - Palace of Lightfeather discovered (walled up since 1701)
+  - Ceremonial Monarch Act establishes powerless but beloved institution
+  - Loo dynasty begins 172-year tradition of opening buildings and cutting ribbons
 
 #### 20th Century
 
@@ -74,6 +88,7 @@ This directory contains documentation of major historical events that have shape
 
 ### Aerobea
 - [1777 Aerobea September Coup](1777-aerobea-september-coup.md) - Commander Nullglyph vs. Emory Di Marison
+- [1853 Accidental Monarchy Restoration](1853-accidental-monarchy-restoration.md) - Scroll filing error creates ceremonial monarchy
 - [World War II](world-war-ii.md) - Under President Avrae Romrowabala
 - [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Aerobea hosts founding conference, houses Secretariat
 - [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md) - Aerobean diplomats mediate dispute
@@ -117,6 +132,7 @@ This directory contains documentation of major historical events that have shape
 - **War**: [World War II](world-war-ii.md)
 - **Coup**: [1777 Aerobea September Coup](1777-aerobea-september-coup.md), [1967 Iuyusoy Coup](1967-iuyusoy-coup.md)
 - **Treaty**: [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md), [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md)
+- **Constitutional Oddity**: [1853 Accidental Monarchy Restoration](1853-accidental-monarchy-restoration.md)
 - **Revolution**: (To be added)
 - **Crisis**: (To be added)
 - **Disaster**: (To be added)

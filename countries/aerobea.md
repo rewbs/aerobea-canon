@@ -49,12 +49,16 @@ Innovation, Expansion, and Flourishing Culture
 - **1821**: Historic six-day symbolic presidency of Feathery Quill (an owl), who died attempting to fly into a blimp
 - **1843-1851**: Presidency of Flann Woolbarrel, noted for his "Scroll Laws" and early infrastructure plans
 - **1851**: Myreech Oiaboy's presidency begins, bringing modernization and the establishment of PEA (Peaville Express Airways)—the first organized air service. The capital, Peaville, becomes known as the "Runway of the World"
+- **1852**: Discovery of the forgotten Palace of Lightfeather during scroll archive expansion—a 17th-century palace walled up since 1701, complete with elderly caretaker Gerald who'd been waiting 153 years for the Emperor to return
+- **1853**: The Accidental Monarchy Restoration—a clerical error in the scroll bureaucracy leads to the establishment of Aerobea's ceremonial monarchy under King Loo I, borrowed from Nitopia to fulfill a legally binding requisition filed in triplicate
 
 #### Good Scroll Era (1853-1914)
 Codification and the Bureaucratic Republic
 - The "Scroll Bureaucracy" refines Aerobean governance with layers of record-keeping, archives, and committees
+- **1853**: King Loo I begins ceremonial reign at Palace of Lightfeather, handling ribbon cuttings and airship christenings while presidents govern
 - **1870s-1890s**: Era of High Civil Design, when cities like Crumbleton and Baahmanro Park are rebuilt in the airy neoclassical style
 - Education and science flourish—this is when figures like Whiskington and McSnort rise as reformers of public education
+- **1892**: King Loo I dies after opening 1,247 buildings; succeeded by his son Loo II, establishing the Loo dynasty
 
 #### World War I (1914-1922)
 Global Conflict and the Aerobean Airfront
@@ -85,14 +89,48 @@ Recovery, Modernization, and Cold Sky Diplomacy
 Technocracy, Stability, and Quiet Strength
 - **1981-2023**: Presidency of Herbert Lovvbert, the longest-serving leader, overseeing modernization and the digitization of archives
 - PEA becomes part of Oneworld, linking Aerobea globally
-- The monarchy continues symbolically under Loo V, residing at the Palace of Lightfeather
-- Aerobea today is a stable, technologically advanced republic balancing its republican past with a ceremonial monarchy
+- **1928-1971**: King Loo III served during WWII and Cold War, perfecting ceremonial fog-standing
+- **1971-2003**: King Loo IV modernized royal waving for television age
+- **2003-Present**: King Loo V reigns ceremonially from the Palace of Lightfeather, handling ribbon cuttings and royal duties while presidents govern; pioneered remote waving during COVID-19
+- Aerobea today is a stable, technologically advanced republic that successfully balances presidential governance with a ceremonial monarchy—the latter being the result of history's most committed bureaucratic joke
 
 ## Government and Politics
 
 ### System
 
-Aerobea operates as a presidential republic with regular elections. The president serves as head of state and government.
+Aerobea operates as a presidential republic with regular elections. The president serves as both head of state and head of government, wielding all actual political power.
+
+However, since 1853, Aerobea also maintains a ceremonial monarchy that handles purely symbolic duties. This unique system arose from a bureaucratic error and has been maintained ever since, making Aerobea simultaneously a republic with an elected president and a kingdom with a hereditary monarch—the former governs, the latter opens buildings.
+
+### Ceremonial Monarchy (1853-Present)
+
+The Aerobean ceremonial monarchy was accidentally established in 1853 when a scroll clerk's filing error created a legally binding requisition for "one (1) ceremonial monarch." Rather than violate the sacred principle of scroll bureaucracy, Parliament borrowed King Loo I from Nitopia's royal family to fill the position.
+
+**The Loo Dynasty:**
+- **King Loo I** (1853-1892): The Accidental—established ceremonial protocols, opened 1,247 buildings
+- **King Loo II** (1892-1928): The Diligent—perfected the royal wave, served through WWI
+- **King Loo III** (1928-1971): The Foggy—served through WWII and Cold War, mastered ceremonial fog-standing
+- **King Loo IV** (1971-2003): The Modern—adapted monarchy for television age
+- **King Loo V** (2003-Present): The Contemporary—current monarch, pioneered remote waving during COVID-19
+
+**Ceremonial Duties (No Political Power):**
+- Opening buildings and cutting ribbons
+- Christening airships (mandatory)
+- Waving at crowds (seven distinct styles)
+- Attending ceremonies too boring for presidents
+- Annual Fog Blessing Ceremony (6 hours of dignified standing in fog)
+- Looking regal at state dinners
+- Living at the Palace of Lightfeather
+
+**Constitutional Limitations:**
+The Ceremonial Monarch Act of 1853 strictly prohibits the monarch from:
+- Governing anything whatsoever
+- Voting in elections
+- Expressing political opinions
+- Making any decisions beyond what color ribbon to cut
+- Attempting to govern (penalty: demotion to Fog Quality Monitor)
+
+King Loo V serves alongside the current President (post-Herbert Lovvbert, 2023-present), maintaining the absurd but beloved tradition that began 172 years ago with a filing error.
 
 ### Timeline of Presidents
 
