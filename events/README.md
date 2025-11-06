@@ -6,6 +6,9 @@ This directory contains documentation of major historical events that have shape
 
 ### By Type
 
+**Timelines**
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Comprehensive decade-by-decade account of how fictional nations interfaced with real-world events from post-WWII through the present day
+
 **Wars and Conflicts**
 - [World War II](world-war-ii.md) (1932-1947) - Global conflict involving Aerobea, Iuyusoy, Moohfalanda, and other canon nations
 
@@ -32,6 +35,16 @@ This directory contains documentation of major historical events that have shape
   - Canon countries led by Avrae Romrowabala (Aerobea), Loopioi Loiuson (Iuyusoy), Kloto Mooson (Moohfalanda)
   - Allied bloc: Aerobea, Catland, Moohfalanda, Nitopia
   - Aerobean bombers and PEA air logistics crucial to Allied victory
+
+**1947-2025**
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Comprehensive historical overview
+  - Post-war reconstruction (1947-1950s)
+  - Cold War period and Fog-See Alliance formation (1960s-1970s)
+  - Thatcher-Reagan era influence (1980s)
+  - Post-Cold War optimism (1990s)
+  - War on Terror and financial crisis (2000s)
+  - Social media and populism (2010s)
+  - COVID-19 pandemic and contemporary challenges (2020s)
 
 **1967-1980**
 - [1967 Iuyusoy Coup](1967-iuyusoy-coup.md) (20 March 1967 - 1 August 1980)
