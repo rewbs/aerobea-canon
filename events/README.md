@@ -74,24 +74,50 @@ This directory contains documentation of major historical events that have shape
 
 ### Aerobea
 - [1777 Aerobea September Coup](1777-aerobea-september-coup.md) - Commander Nullglyph vs. Emory Di Marison
-- [World War II](world-war-ii.md) - Under President Avae Romrowabala
+- [World War II](world-war-ii.md) - Under President Avrae Romrowabala
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Aerobea hosts founding conference, houses Secretariat
+- [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md) - Aerobean diplomats mediate dispute
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Herbert Lovvbert's 42-year presidency and digital transformation
+
+### Aurob
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Feather-Fog Accord reconciliation
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Democratic consolidation and industrial modernization
+
+### Catland
+- [World War II](world-war-ii.md) - Under President Muddy
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Founding member
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Sufficiency economy development
 
 ### Iuyusoy
 - [1967 Iuyusoy Coup](1967-iuyusoy-coup.md) - End of First Republic, authoritarian period, and restoration
 - [World War II](world-war-ii.md) - Under Prime Minister Loopioi Loiuson
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Founding member
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Democratic resilience and Second Republic
 
 ### Moohfalanda
 - [World War II](world-war-ii.md) - Under President Kloto Mooson
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Founding member
+- [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md) - Party to Cattle-Wool Trade Dispute
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Economic diversification
+
+### Nitopia
+- [World War II](world-war-ii.md) - Role to be documented
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Founding member
+- [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md) - Party to Cattle-Wool Trade Dispute
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Data ethics leadership and AI governance
 
 ### Multiple Countries
 - [World War II](world-war-ii.md) - Involving all major canon nations
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Regional cooperation framework
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - All nations navigating real-world events
 
 ## Event Types
 
+- **Timeline**: [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md)
 - **War**: [World War II](world-war-ii.md)
 - **Coup**: [1777 Aerobea September Coup](1777-aerobea-september-coup.md), [1967 Iuyusoy Coup](1967-iuyusoy-coup.md)
+- **Treaty**: [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md), [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md)
 - **Revolution**: (To be added)
-- **Treaty**: (To be added)
 - **Crisis**: (To be added)
 - **Disaster**: (To be added)
 

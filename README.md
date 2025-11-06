@@ -13,11 +13,11 @@ This repository contains the canonical lore for Saul's imaginary countries.
 ## Quick Links
 
 ### Countries
-- [Aerobea](countries/aerobea.md) - Island presidential republic (founded 1672)
+- [Aerobea](countries/aerobea.md) - Island presidential republic (founded 1701)
 - [Aurob](countries/aurob.md) - Parliamentary democracy (founded 1894)
-- [Catland](countries/catland.md) - Presidential republic (founded 1726)
-- [Moohfalanda](countries/moohfalanda.md) - Presidential republic (founded 1870)
-- [Nitopia](countries/nitopia.md) - Constitutional republic (founded 1560)
+- [Catland](countries/catland.md) - Presidential republic (founded 1761)
+- [Moohfalanda](countries/moohfalanda.md) - Presidential republic (founded 1924)
+- [Nitopia](countries/nitopia.md) - Constitutional republic (monarchy 1560, republic 1843)
 
 ### Featured Figures
 - [Barkley Thunderflap](figures/barkley-thunderflap.md) - First non-human president (Aerobea)

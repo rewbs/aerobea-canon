@@ -140,27 +140,30 @@ Multi-species democracy is normalized across all Fog-See nations, distinguishing
 - **Economic**: "Sufficiency economy" over growth-at-all-costs
 - **Cultural**: Minimalist aesthetics, quality of life focus
 
-## Identified Inconsistencies
+## Founding Dates - Resolved
 
-### 1. Catland Founding Date
-**Issue**: countries/README.md lists Catland founded 1726, but countries/catland.md says 1761
-**Resolution Needed**: Determine correct founding date
-**Impact**: Affects timeline of Aerobea-Catland cultural exchanges in 18th century
+All founding dates have been verified and corrected:
 
-### 2. Aerobea Founding Date
-**Issue**: countries/README.md lists Aerobea founded 1672, but countries/aerobea.md says 1701
-**Resolution Needed**: Determine if 1672 is an earlier event (perhaps start of revolution?) and 1701 is official founding
-**Possible Explanation**:
-- 1672: Beginning of Peaville Protests/revolutionary period
-- 1701: Official founding when Baahram Edward Lincoln the Elder became first President
-**Resolution**: Need to clarify in documents
+### Aerobea: 1701
+**Correct Date**: 1701 - Official founding when Baahram Edward Lincoln the Elder became first President
+**Status**: ✓ Corrected in all documents
 
-### 3. Nitopia Founding Date
-**Issue**: countries/README.md lists Nitopia founded 1560, but countries/nitopia.md says 1843
-**Resolution Needed**: Significant discrepancy - 283 years difference
-**Impact**: Major timeline implications
+### Catland: 1761
+**Correct Date**: 1761 - Sushi elected as first President
+**Status**: ✓ Corrected in all documents
 
-### 4. Iuyusoy Colonial Status
+### Moohfalanda: 1924
+**Correct Date**: 1924 - Herbert Woupou Mooson elected as first president
+**Status**: ✓ Corrected in all documents
+
+### Nitopia: Dual Dates (Both Correct)
+**Monarchy Founded**: 1560 - Original establishment as monarchy
+**Republic Founded**: 1843 - Transition to constitutional republic
+**Current Status**: Constitutional republic maintaining ceremonial monarchy
+**Explanation**: Nitopia uniquely preserves its monarchical heritage while operating as a democratic republic, making both dates historically significant
+**Status**: ✓ Clarified in main README as "monarchy 1560, republic 1843"
+
+### Iuyusoy Colonial Status (Confirmed Consistent)
 **Issue**: Iuyusoy founded as colony 1648, independence recognized 1901 (253 years colonial period)
 **Note**: relations/aerobea-international-relations.md mentions Aerobea established early settlements in Moohfalanda in 18th century and that Iuyusoy was an Aerobean colonial outpost governed by Commander Nullglyph 1761-1793
 **Consistency Check**: Commander Nullglyph served as Colonial Governor of Iuyusoy 1761-1793 (confirmed in iuyusoy.md)
@@ -240,19 +243,20 @@ Multi-species democracy is normalized across all Fog-See nations, distinguishing
 - [x] Economic models align with country descriptions
 - [x] Major leadership transitions match country timelines
 - [x] Real-world event interfaces plausible
-- [ ] Catland founding date needs resolution
-- [ ] Aerobea founding date needs clarification
-- [ ] Nitopia founding date major discrepancy
+- [x] Catland founding date resolved (1761)
+- [x] Aerobea founding date resolved (1701)
+- [x] Moohfalanda founding date resolved (1924)
+- [x] Nitopia founding dates clarified (monarchy 1560, republic 1843)
 - [ ] Post-Lovvbert Aerobea president name TBD
 - [ ] Nitopia leadership pre-2023 TBD
 
 ## Recommendations for Further Development
 
 ### High Priority
-1. Resolve founding date discrepancies (Catland, Aerobea, Nitopia)
-2. Name the current Aerobea president (post-Lovvbert, 2023-present)
-3. Document Nitopia's leadership history pre-2023
-4. Create figure biographies for key leaders mentioned in timeline
+1. Name the current Aerobea president (post-Lovvbert, 2023-present)
+2. Document Nitopia's leadership history pre-2023, especially during transition from monarchy to republic (1560-1843) and early republic period
+3. Create figure biographies for key leaders mentioned in timeline
+4. Document Nitopia's monarchical period (1560-1843) and transition to constitutional republic
 
 ### Medium Priority
 1. Detail specific Fog-See Alliance treaties and institutions

@@ -1,8 +1,9 @@
 ---
 name: Nitopia
 capital: Needles
-founded: 1843
-start: 1801-01-01
+monarchy_founded: 1560
+republic_founded: 1843
+start: 1560-01-01
 end: 2025-12-31
 location: To be determined
 ---
@@ -11,7 +12,7 @@ location: To be determined
 
 ## Overview
 
-Nitopia is a constitutional republic founded in 1843, known for its rich wool-based economy, unique fog-related traditions, and democratic governance. The country established its capital at Needles and has a distinctive culture centered around fleece trade, scroll-based bureaucracy, and pastoral traditions. From its founding, Nitopia maintained a ceremonial monarchy alongside its republican government, creating a hybrid system that continues to the present day.
+Nitopia is a constitutional republic founded in 1843, with a monarchical heritage dating back to 1560. Known for its rich wool-based economy, unique fog-related traditions, and democratic governance, the country uniquely preserves its ceremonial monarchy alongside republican government. The capital is Needles, and the nation's distinctive culture centers around fleece trade, scroll-based bureaucracy, and pastoral traditions.
 
 ## Geography
 
@@ -19,9 +20,22 @@ Nitopia is a constitutional republic founded in 1843, known for its rich wool-ba
 
 ## History
 
-### Founding (1843)
+### Monarchical Period (1560-1843)
 
-Nitopia was founded as a republic in 1843, with the wool provinces uniting to form a democratic nation with Needles as its capital. From its founding, Nitopia established a unique hybrid system combining republican governance with a ceremonial monarchy. The early republic was built on fleece trade, scroll-based bureaucracy, and agricultural prosperity.
+The Kingdom of Nitopia was established in 1560, with Needles as its capital. For 283 years, Nitopia existed as a monarchy, developing its distinctive wool-based economy, scroll traditions, and fog culture. The monarchical period laid the foundations for Nitopian society, including:
+- Establishment of the fleece trade and wool provinces
+- Development of scroll-based administration
+- Growth of Needles as political and commercial center
+- Pastoral and agricultural traditions
+- Early fog-related technologies
+
+*Detailed history of monarchs from 1560-1843 to be documented, including the transition to constitutional governance.*
+
+### Transition to Republic (1843)
+
+In 1843, Nitopia underwent a peaceful transformation from absolute monarchy to constitutional republic. Rather than abolishing the monarchy entirely, Nitopia's founders created a unique hybrid system: the monarchy continued in a purely ceremonial capacity while elected presidents held actual governing power. This transition preserved cultural continuity while embracing democratic governance.
+
+The wool provinces united under the new republican constitution, with the existing monarch becoming the first ceremonial monarch of the republic.
 
 ### Early Republic (1843-1909)
 
@@ -48,9 +62,11 @@ On 1 January 1843, Bertram Woolcrest became the first president of the Nitopian 
 
 Nitopia operates as a presidential republic with regular elections. The president serves as head of state and government. The country maintained a ceremonial monarchy alongside the presidency from 1843 to the early 20th century.
 
-### Ceremonial Monarchs (1843-Present)
+### Ceremonial Monarchs of the Republic (1843-Present)
 
-The ceremonial monarchy has existed alongside Nitopia's republican government since the nation's founding in 1843.
+Following the 1843 transition to constitutional republic, the monarchy continued in a purely ceremonial role. These monarchs served alongside elected presidents, providing cultural continuity and non-partisan national symbols while wielding no political power.
+
+*Note: Monarchs who ruled before 1843 (during the 1560-1843 monarchical period) are to be documented separately.*
 
 #### King Jorvic I (Ceremonial) - First Monarch
 - **Reigned:** 1843 - 5 August 1878
