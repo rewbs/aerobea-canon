@@ -6,12 +6,19 @@ This directory contains documentation of major historical events that have shape
 
 ### By Type
 
+**Timelines**
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Comprehensive decade-by-decade account of how fictional nations interfaced with real-world events from post-WWII through the present day
+
 **Wars and Conflicts**
 - [World War II](world-war-ii.md) (1932-1947) - Global conflict involving Aerobea, Iuyusoy, Moohfalanda, and other canon nations
 
 **Coups and Political Upheavals**
 - [1777 Aerobea September Coup](1777-aerobea-september-coup.md) - Counter-revolutionary coup restoring Commander Nullglyph to power
 - [1967 Iuyusoy Coup](1967-iuyusoy-coup.md) - Military takeover ending 66 years of democracy, followed by 1980 restoration
+
+**Treaties and International Agreements**
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Founding of regional cooperation organization uniting democratic nations
+- [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md) - Resolution of Cattle-Wool Trade Dispute through Aerobean mediation
 
 ### Chronological Index
 
@@ -33,34 +40,84 @@ This directory contains documentation of major historical events that have shape
   - Allied bloc: Aerobea, Catland, Moohfalanda, Nitopia
   - Aerobean bombers and PEA air logistics crucial to Allied victory
 
+**1947-2025**
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Comprehensive historical overview
+  - Post-war reconstruction (1947-1950s)
+  - Cold War period and Fog-See Alliance formation (1960s-1970s)
+  - Thatcher-Reagan era influence (1980s)
+  - Post-Cold War optimism (1990s)
+  - War on Terror and financial crisis (2000s)
+  - Social media and populism (2010s)
+  - COVID-19 pandemic and contemporary challenges (2020s)
+
+**1954**
+- [Fog-See Alliance Formation](1954-fog-see-alliance-formation.md)
+  - Five founding members: Aerobea, Nitopia, Catland, Moohfalanda, Iuyusoy
+  - Peaville Charter establishing democratic solidarity
+  - Feather-Fog Accord reconciling with Aurob
+  - Fog-See Secretariat established in Peaville
+
 **1967-1980**
 - [1967 Iuyusoy Coup](1967-iuyusoy-coup.md) (20 March 1967 - 1 August 1980)
   - Henri Johnson's Conservative Republican coup
   - 13 years of authoritarian Governor-General rule
   - Democratic restoration under David Thorot in 1980
 
+**1975**
+- [Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md) (21 June 1975)
+  - Resolved Cattle-Wool Trade Dispute between Moohfalanda and Nitopia
+  - Aerobean mediation applying Scrollist philosophy
+  - Demonstrated alliance's conflict resolution capacity
+  - Established precedents for peaceful dispute resolution
+
 ## Events by Country
 
 ### Aerobea
 - [1777 Aerobea September Coup](1777-aerobea-september-coup.md) - Commander Nullglyph vs. Emory Di Marison
-- [World War II](world-war-ii.md) - Under President Avae Romrowabala
+- [World War II](world-war-ii.md) - Under President Avrae Romrowabala
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Aerobea hosts founding conference, houses Secretariat
+- [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md) - Aerobean diplomats mediate dispute
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Herbert Lovvbert's 42-year presidency and digital transformation
+
+### Aurob
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Feather-Fog Accord reconciliation
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Democratic consolidation and industrial modernization
+
+### Catland
+- [World War II](world-war-ii.md) - Under President Muddy
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Founding member
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Sufficiency economy development
 
 ### Iuyusoy
 - [1967 Iuyusoy Coup](1967-iuyusoy-coup.md) - End of First Republic, authoritarian period, and restoration
 - [World War II](world-war-ii.md) - Under Prime Minister Loopioi Loiuson
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Founding member
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Democratic resilience and Second Republic
 
 ### Moohfalanda
 - [World War II](world-war-ii.md) - Under President Kloto Mooson
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Founding member
+- [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md) - Party to Cattle-Wool Trade Dispute
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Economic diversification
+
+### Nitopia
+- [World War II](world-war-ii.md) - Role to be documented
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Founding member
+- [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md) - Party to Cattle-Wool Trade Dispute
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - Data ethics leadership and AI governance
 
 ### Multiple Countries
 - [World War II](world-war-ii.md) - Involving all major canon nations
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Regional cooperation framework
+- [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md) - All nations navigating real-world events
 
 ## Event Types
 
+- **Timeline**: [Post-War Timeline 1947-2025](post-war-timeline-1947-2025.md)
 - **War**: [World War II](world-war-ii.md)
 - **Coup**: [1777 Aerobea September Coup](1777-aerobea-september-coup.md), [1967 Iuyusoy Coup](1967-iuyusoy-coup.md)
+- **Treaty**: [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md), [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md)
 - **Revolution**: (To be added)
-- **Treaty**: (To be added)
 - **Crisis**: (To be added)
 - **Disaster**: (To be added)
 
