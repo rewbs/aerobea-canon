@@ -7,7 +7,7 @@ This directory contains documentation of major historical events that have shape
 ### By Type
 
 **Wars and Conflicts**
-- [World War II](world-war-ii.md) (1939-1945) - Global conflict involving Aerobea, Iuyusoy, Moohfalanda, and other canon nations
+- [World War II](world-war-ii.md) (1932-1947) - Global conflict involving Aerobea, Iuyusoy, Moohfalanda, and other canon nations
 
 **Coups and Political Upheavals**
 - [1777 Aerobea September Coup](1777-aerobea-september-coup.md) - Counter-revolutionary coup restoring Commander Nullglyph to power
@@ -25,11 +25,13 @@ This directory contains documentation of major historical events that have shape
 
 #### 20th Century
 
-**1939-1945**
-- [World War II](world-war-ii.md) (1 September 1939 - 2 September 1945)
+**1932-1947**
+- [World War II](world-war-ii.md) (1932 - 1947)
   - Global conflict reshaping international order
-  - Canon countries led by Avae Romrowabala (Aerobea), Loopioi Loiuson (Iuyusoy), Kloto Mooson (Moohfalanda)
-  - Specific alliances and roles to be documented
+  - 15-year war period in canon timeline (differs from real-world 1939-1945)
+  - Canon countries led by Avrae Romrowabala (Aerobea), Loopioi Loiuson (Iuyusoy), Kloto Mooson (Moohfalanda)
+  - Allied bloc: Aerobea, Catland, Moohfalanda, Nitopia
+  - Aerobean bombers and PEA air logistics crucial to Allied victory
 
 **1967-1980**
 - [1967 Iuyusoy Coup](1967-iuyusoy-coup.md) (20 March 1967 - 1 August 1980)
@@ -65,9 +67,9 @@ This directory contains documentation of major historical events that have shape
 ## Featured Figures in Events
 
 ### From Aerobea
-- **Commander Nullglyph** - Led 1777 counter-coup; served three presidential terms
+- **Commander Nullglyph** - Served two presidential terms 1745-1761; founded Nullglyphite movement in 1787
 - **Emory Di Marison** - Radical leader overthrown and executed
-- **Avae Romrowabala** - Led Aerobea through WWII
+- **Avrae Romrowabala** - Led Aerobea through WWII (1932-1947)
 
 ### From Iuyusoy
 - **Henri Johnson** - Led 1967 coup; Governor-General 1967-1980

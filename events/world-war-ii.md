@@ -1,7 +1,7 @@
 ---
 name: World War II
-start_date: 1 September 1939
-end_date: 2 September 1945
+start_date: 1932
+end_date: 1947
 type: war
 countries_involved: [Aerobea, Iuyusoy, Moohfalanda, Nitopia, Catland, Aurob]
 ---
@@ -10,7 +10,7 @@ countries_involved: [Aerobea, Iuyusoy, Moohfalanda, Nitopia, Catland, Aurob]
 
 ## Overview
 
-World War II (1939-1945) was a global conflict that involved nations across all continents, including the fictional countries of Aerobea, Iuyusoy, and Moohfalanda. The war lasted six years and fundamentally reshaped international relations, political systems, and national boundaries. While the specific roles and alliances of the canon countries remain to be fully documented, their involvement during this period profoundly influenced their subsequent political development.
+World War II (1932-1947) was a global conflict that involved nations across all continents, including the fictional countries of Aerobea, Iuyusoy, and Moohfalanda. **Note:** In the canon timeline, World War II lasted from 1932 to 1947 (15 years), differing from the real-world dates of 1939-1945. The war fundamentally reshaped international relations, political systems, and national boundaries. While the specific roles and alliances of the canon countries remain to be fully documented, their involvement during this period profoundly influenced their subsequent political development.
 
 ## Background
 
@@ -26,9 +26,10 @@ The 1930s saw rising international tensions:
 ### Canon Countries on the Eve of War
 
 **Aerobea:**
-- Under President Avae Romrowabala (Whig Party, 1929-1947)
-- Romrowabala took office during the Great Depression
-- Nation's alliances and military preparedness to be documented
+- Under President Avrae Romrowabala (Whig Party, 1929-1947)
+- Romrowabala took office during the Great Depression and Interest Era turmoil
+- Allied with Nitopia, Catland, and Moohfalanda against the Axis
+- Aerobean bombers and PEA (Peaville Express Airways) air logistics crucial to Allied victory
 
 **Iuyusoy:**
 - Led by Prime Minister Loopioi Loiuson (Liberal Party, 1932-1948)
@@ -53,21 +54,29 @@ The canon countries' responses to these developments remain to be documented.
 
 ## Timeline
 
-### Outbreak and Early War (1939-1941)
+### Early War Period (1932-1939)
 
-**1 September 1939:** Germany invades Poland; Britain and France declare war
-- Canon countries' initial responses to be documented
-- Declarations of neutrality, alliance, or belligerence to be specified
-- Mobilization efforts and military preparations
+**1932:** War begins (canon timeline)
+- Canon countries begin mobilization
+- Aerobea, Catland, Moohfalanda, and Nitopia form Allied bloc
+- Early conflicts and strategic positioning
 
-**1940:** Fall of France, Battle of Britain, Blitz
-- Impact on canon countries' strategic positions
-- Economic mobilization and war production
-- Possible refugee movements to/from canon nations
+**1932-1939:** Pre-real-world-war period
+- Seven years of conflict before real-world WWII begins
+- Canon nations already engaged in hostilities
+- Development of air warfare tactics, particularly in Aerobean Airfront
 
-**1941:** German invasion of Soviet Union (June); Pearl Harbor (December)
-- Global expansion of conflict
-- Canon countries' shifting positions and policies
+### Mid-War Period (1939-1945)
+
+**1 September 1939:** Real-world WWII begins - Germany invades Poland
+- Canon countries already at war for seven years
+- Integration with global conflict
+- Aerobea's air logistics and PEA become crucial
+
+**1940-1945:** Major global conflict period
+- Aerobean bombers play significant role
+- Massive losses in Aerobean Airfront
+- Allied cooperation between Aerobea, Catland, Moohfalanda, and Nitopia
 
 ### Total War Period (1942-1943)
 
@@ -77,30 +86,32 @@ The canon countries' responses to these developments remain to be documented.
 - Industrial production, rationing, civilian mobilization
 - Leadership decisions by Romrowabala, Loiuson, and Mooson
 
-### Allied Victory (1944-1945)
+### Late War and Allied Victory (1944-1947)
 
-**1944:** D-Day landings and liberation of Western Europe
-- Canon countries' participation to be documented
-- Military contributions and casualties
-- Home front experiences
+**1944-1945:** Major Allied victories
+- D-Day landings and liberation of Western Europe
+- Canon countries' significant participation
+- Aerobean air power crucial to Allied success
+- VE Day (8 May 1945) - Germany defeated
 
-**1945:** Defeat of Germany (May) and Japan (September)
-- VE Day (8 May 1945) and VJ Day (2 September 1945)
-- Canon countries' roles in final victory
-- Immediate post-war adjustments
+**1945-1947:** Extended conflict period (canon timeline)
+- War continues for two years beyond real-world end date
+- Final operations and mopping up
+- **1947:** War officially ends
+- Canon countries transition to postwar reconstruction
 
 ## Key Figures
 
 ### Aerobea
 
-#### President Avae Romrowabala (Whig)
+#### President Avrae Romrowabala (Whig)
 - **Served:** 18 November 1929 - 15 March 1947
 - **Birth:** 14 February 1887
 - **Death:** 3 November 1970
-- **Role:** Led Aerobea through entire WWII period
-- **Actions:** Wartime leadership and decision-making to be documented
-- **Outcome:** Presidency continued beyond 1945 until 1947; was eventually "kicked out"
-- **Biography:** To be created in `figures/avae-romrowabala.md`
+- **Role:** Led Aerobea through entire WWII period (1932-1947)
+- **Actions:** Formed Allied bloc with Catland, Moohfalanda, and Nitopia; mobilized Aerobean bombers and PEA air logistics; led nation through 15 years of total war
+- **Outcome:** Presidency ended shortly after war conclusion in March 1947; was "kicked out"
+- **Biography:** To be created in `figures/avrae-romrowabala.md`
 
 ### Iuyusoy
 
