@@ -16,6 +16,10 @@ This directory contains documentation of major historical events that have shape
 - [1777 Aerobea September Coup](1777-aerobea-september-coup.md) - Counter-revolutionary coup restoring Commander Nullglyph to power
 - [1967 Iuyusoy Coup](1967-iuyusoy-coup.md) - Military takeover ending 66 years of democracy, followed by 1980 restoration
 
+**Treaties and International Agreements**
+- [1954 Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Founding of regional cooperation organization uniting democratic nations
+- [1975 Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md) - Resolution of Cattle-Wool Trade Dispute through Aerobean mediation
+
 ### Chronological Index
 
 #### 18th Century
@@ -46,11 +50,25 @@ This directory contains documentation of major historical events that have shape
   - Social media and populism (2010s)
   - COVID-19 pandemic and contemporary challenges (2020s)
 
+**1954**
+- [Fog-See Alliance Formation](1954-fog-see-alliance-formation.md)
+  - Five founding members: Aerobea, Nitopia, Catland, Moohfalanda, Iuyusoy
+  - Peaville Charter establishing democratic solidarity
+  - Feather-Fog Accord reconciling with Aurob
+  - Fog-See Secretariat established in Peaville
+
 **1967-1980**
 - [1967 Iuyusoy Coup](1967-iuyusoy-coup.md) (20 March 1967 - 1 August 1980)
   - Henri Johnson's Conservative Republican coup
   - 13 years of authoritarian Governor-General rule
   - Democratic restoration under David Thorot in 1980
+
+**1975**
+- [Fog-See Peace of Pastures](1975-fog-see-peace-of-pastures.md) (21 June 1975)
+  - Resolved Cattle-Wool Trade Dispute between Moohfalanda and Nitopia
+  - Aerobean mediation applying Scrollist philosophy
+  - Demonstrated alliance's conflict resolution capacity
+  - Established precedents for peaceful dispute resolution
 
 ## Events by Country
 
