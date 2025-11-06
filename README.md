@@ -7,9 +7,8 @@ This repository contains the canonical lore for Saul's imaginary countries.
 - **[Countries](countries/README.md)** - Browse all countries with detailed histories, governments, and cultures
 - **[Historical Figures](figures/README.md)** - Explore biographies of presidents, prime ministers, and notable figures
 - **[Comparative Analysis](analysis/README.md)** - In-depth comparative studies of political, historical, and cultural themes
-- `events/` - Major historical events and timelines (to be developed)
 - **[Events](events/README.md)** - Major historical events and timelines
-- `relations/` - International relations and treaties (to be developed)
+- **[International Relations](relations/README.md)** - Diplomatic relations, treaties, and the Fog-See Alliance
 
 ## Quick Links
 
