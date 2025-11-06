@@ -1,7 +1,7 @@
 ---
 name: Catland
 capital: To be determined
-founded: 31 December 1726
+founded: 1761
 population: To be determined
 location: European region, exact location to be determined
 ---
@@ -10,7 +10,7 @@ location: European region, exact location to be determined
 
 ## Overview
 
-Catland is a presidential republic founded on 31 December 1726, known for its long democratic tradition and unique political culture dominated by two major parties: the Fish and Curiosity Party and the Mischief Party. The nation has maintained a continuous presidential system for nearly 300 years, with peaceful transitions of power and a rich political history marked by both stability and dramatic moments such as the infamous 1905 Quadruple Silence.
+Catland is a presidential republic founded in 1761, known for its long democratic tradition and unique political culture dominated by two major parties: the Fish and Curiosity Party and the Mischief Party. The nation has maintained a continuous presidential system for over 260 years, with peaceful transitions of power and a rich political history marked by both stability and dramatic moments such as the infamous 1905 Quadruple Silence.
 
 ## Geography
 
@@ -18,17 +18,9 @@ Catland is a presidential republic founded on 31 December 1726, known for its lo
 
 ## History
 
-### Founding (1726)
+### Founding (1761)
 
-Catland was founded on 31 December 1726, establishing itself as an independent nation. The early decades focused on nation-building and establishing the foundations that would eventually lead to the presidential system.
-
-### Early Constitutional Period (1726-1761)
-
-The period between founding and the establishment of the presidency saw the development of Catland's constitutional framework. Details of this formative period are to be documented.
-
-### First Presidential Era (1761-1789)
-
-On 1 January 1761, Sushi of the Fish and Curiosity Party was elected as Catland's first President, beginning a tradition of presidential democracy that continues to this day. Sushi's nearly three-decade term set the precedent for strong executive leadership balanced with democratic principles.
+Catland was founded in 1761, establishing itself as an independent nation with a presidential system from its inception. On 1 January 1761, Sushi of the Fish and Curiosity Party was elected as Catland's first President, beginning a tradition of presidential democracy that continues to this day. Sushi's nearly three-decade term set the precedent for strong executive leadership balanced with democratic principles.
 
 ### Constitutional Presidency Established (1789)
 
@@ -295,7 +287,7 @@ See detailed biographies in `figures/` directory (to be created):
 *Details to be documented - main industries, trading partners, economic development through the centuries, currency, natural resources.*
 
 ### Economic Eras
-- **Early Period (1726-1800):** Founding and establishment
+- **Early Period (1761-1800):** Founding and establishment
 - **Falmone Era Economic Collapse (1796-1800):** Crisis period under Gobbolino
 - **19th Century Development:** Steady growth and industrialization
 - **20th Century Modernization:** Industrial and technological advancement
@@ -330,7 +322,7 @@ See detailed biographies in `figures/` directory (to be created):
 
 ### National Character
 The political culture of Catland is characterized by:
-- Strong democratic traditions spanning nearly 300 years
+- Strong democratic traditions spanning over 260 years
 - Remarkable political stability with only two deaths in office (Gobbolino, Midnight)
 - Dominance of the Fish and Curiosity Party balanced by periodic Mischief Party governments
 - Tendency toward longer presidential terms compared to many democracies
@@ -339,8 +331,7 @@ The political culture of Catland is characterized by:
 
 ## Timeline of Major Events
 
-- **31 December 1726:** Catland founded
-- **1 January 1761:** Sushi elected as first President
+- **1 January 1761:** Catland founded; Sushi elected as first President
 - **1 January 1789:** Constitutional presidency established under Whiskerbean
 - **1 January 1796:** Gobbolino elected, beginning Falmone era
 - **6 September 1800:** Gobbolino dies in office amid economic collapse

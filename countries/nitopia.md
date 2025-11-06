@@ -1,7 +1,7 @@
 ---
 name: Nitopia
 capital: Needles
-founded: 1560
+founded: 1843
 start: 1801-01-01
 end: 2025-12-31
 location: To be determined
@@ -11,7 +11,7 @@ location: To be determined
 
 ## Overview
 
-Nitopia is a constitutional republic founded as a kingdom in 1560, known for its rich wool-based economy, unique fog-related traditions, and transition from monarchy to democratic republic. The country established its capital at Needles and has a distinctive culture centered around fleece trade, scroll-based bureaucracy, and pastoral traditions. Nitopia transitioned to republican governance in 1843 while maintaining a ceremonial monarchy, creating a hybrid system that lasted until the late 19th century.
+Nitopia is a constitutional republic founded in 1843, known for its rich wool-based economy, unique fog-related traditions, and democratic governance. The country established its capital at Needles and has a distinctive culture centered around fleece trade, scroll-based bureaucracy, and pastoral traditions. From its founding, Nitopia maintained a ceremonial monarchy alongside its republican government, creating a hybrid system that continues to the present day.
 
 ## Geography
 
@@ -19,25 +19,11 @@ Nitopia is a constitutional republic founded as a kingdom in 1560, known for its
 
 ## History
 
-### Founding (1560)
+### Founding (1843)
 
-Nitopia was founded by King Loo Loo I Lop in 1560, who united the wool provinces and established the capital at Needles. The early kingdom was built on fleece trade and agricultural prosperity.
+Nitopia was founded as a republic in 1843, with the wool provinces uniting to form a democratic nation with Needles as its capital. From its founding, Nitopia established a unique hybrid system combining republican governance with a ceremonial monarchy. The early republic was built on fleece trade, scroll-based bureaucracy, and agricultural prosperity.
 
-### Kingdom Period (1560-1843)
-
-The kingdom era saw the establishment of key institutions:
-- Council of Scrolls founded under King Baahman I
-- Early diplomacy with Aerobea
-- Development of fog-tax systems
-- Multiple tragic royal deaths including airship disasters
-
-Notable events:
-- **1633:** King Loo Loo II Lop died in the Zoom Air Flight 378 crash, remembered as "Loo Loo the Lost"
-- **1764-1809:** Baahman IV's reign, the "Golden Fleece Era" under "Baahman the Peaceful"
-- **1810:** King Baahman V assassinated at harvest banquet in the "Lantern of Mercy tragedy"
-- **1828:** King Baahman VI killed during maiden voyage of the first fog-powered airship "King's Dream"
-
-### First Republic (1843-1909)
+### Early Republic (1843-1909)
 
 On 1 January 1843, Bertram Woolcrest became the first president of the Nitopian Republic, while the monarchy continued in ceremonial capacity. This era featured:
 - Alternating power between Ghanaio Party and ZXMO Party
@@ -62,79 +48,15 @@ On 1 January 1843, Bertram Woolcrest became the first president of the Nitopian 
 
 Nitopia operates as a presidential republic with regular elections. The president serves as head of state and government. The country maintained a ceremonial monarchy alongside the presidency from 1843 to the early 20th century.
 
-### Monarchs (1560-Present)
+### Ceremonial Monarchs (1843-Present)
 
-#### King Loo Loo I Lop
-- **Reigned:** 1560 - 12 September 1600
-- **Birth:** 24 January 1530
-- **Death:** 12 September 1600 (old age)
-- Founder of Nitopia; united wool provinces and established the capital at Needles.
+The ceremonial monarchy has existed alongside Nitopia's republican government since the nation's founding in 1843.
 
-#### King Woolbrain I
-- **Reigned:** 12 September 1600 - 5 September 1604
-- **Birth:** 15 November 1554
-- **Death:** 5 September 1604 (fever)
-- Expanded fleece trade and built the first royal granaries in Needles.
-
-#### King Baahman I
-- **Reigned:** 5 September 1604 - 25 June 1625
-- **Birth:** 24 July 1569
-- **Death:** 25 June 1625 (heart failure)
-- Brother of Woolbrain I; founded the Council of Scrolls and established early diplomacy with Aerobea.
-
-#### King Loo Loo II Lop
-- **Reigned:** 25 June 1625 - 22 April 1633
-- **Birth:** 1 June 1570
-- **Death:** 22 April 1633 (killed in the crash of Zoom Air Flight 378)
-- Died in the 1633 airship disaster with poet Butter Chum; remembered as "Loo Loo the Lost".
-
-#### King Baahman II
-- **Reigned:** 22 April 1633 - 4 August 1680
-- **Birth:** 2 July 1618
-- **Death:** 4 August 1680 (natural causes)
-- Restored calm after Loo Loo II's death; introduced fair fog-tax reforms.
-
-#### King Woolbrain II
-- **Reigned:** 4 August 1680 - 6 September 1709
-- **Birth:** 23 August 1648
-- **Death:** 6 September 1709 (blood infection)
-- Known as "Woolbrain the Clean"; introduced hygiene laws and standardised wool measures.
-
-#### King Baahman III
-- **Reigned:** 6 September 1709 - 3 September 1720
-- **Birth:** 26 April 1658
-- **Death:** 3 September 1720 (stroke)
-- Philosopher-king who founded Needles University and promoted plain-language law.
-
-#### King John Woolman
-- **Reigned:** 3 September 1720 - 24 August 1764
-- **Birth:** 15 May 1694
-- **Death:** 24 August 1764 (old age)
-- A humble and practical ruler; abolished fleece tithe and championed equality among herders.
-
-#### King Baahman IV
-- **Reigned:** 24 August 1764 - 25 August 1809
-- **Birth:** 6 May 1725
-- **Death:** 25 August 1809 (old age)
-- Longest-reigning monarch; remembered as "Baahman the Peaceful" of the Golden Fleece Era.
-
-#### King Baahman V
-- **Reigned:** 25 August 1809 - 3 September 1810
-- **Birth:** 22 March 1770
-- **Death:** 3 September 1810 (assassinated at harvest banquet)
-- Poet-king known for gentleness and art; his death is mourned as the Lantern of Mercy tragedy.
-
-#### King Baahman VI
-- **Reigned:** 3 September 1810 - 2 August 1828
-- **Birth:** 1 July 1780
-- **Death:** 2 August 1828 (killed in blimp crash - King's Dream airship)
-- Visionary inventor; built the first fog-powered airship, dying during its maiden voyage.
-
-#### King Jorvic I (Ceremonial)
-- **Reigned:** 2 August 1828 - 5 August 1878
+#### King Jorvic I (Ceremonial) - First Monarch
+- **Reigned:** 1843 - 5 August 1878
 - **Birth:** 5 August 1810
 - **Death:** 5 August 1878 (heart attack on his birthday)
-- Accepted transition to republic; first ceremonial monarch; beloved as "The Shepherd-King".
+- First ceremonial monarch of Nitopia; beloved as "The Shepherd-King".
 
 #### King Jorvic II (Ceremonial)
 - **Reigned:** 5 August 1878 - 23 July 1890

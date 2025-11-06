@@ -1,7 +1,7 @@
 ---
 name: Moohfalanda
 capital: To be determined
-founded: 1 January 1870
+founded: 1924
 population: To be determined
 location: To be determined
 government_type: Presidential Republic
@@ -11,7 +11,7 @@ government_type: Presidential Republic
 
 ## Overview
 
-Moohfalanda is a presidential republic founded on 1 January 1870. The nation has experienced a diverse political history spanning over 150 years, with leadership alternating primarily between the National Populist Party, Labour Party, Labour Alliance, and Liberal Conservative Party. The country's political system has seen both stable long-term administrations and periods of rapid leadership turnover.
+Moohfalanda is a presidential republic founded in 1924. The nation has experienced a diverse political history spanning over 100 years, with leadership alternating primarily between the National Populist Party, Labour Party, Labour Alliance, and Liberal Conservative Party. The country's political system has seen both stable long-term administrations and periods of rapid leadership turnover.
 
 ## Geography
 
@@ -19,17 +19,9 @@ Moohfalanda is a presidential republic founded on 1 January 1870. The nation has
 
 ## History
 
-### Founding (1870)
+### Founding (1924)
 
-Moohfalanda was established as a nation on 1 January 1870, forming as a presidential republic from its inception. The early period of nation-building set the foundations for its democratic institutions, though the first president was not elected until 1924.
-
-### Pre-Presidential Era (1870-1924)
-
-Details of Moohfalanda's government structure and leadership during the first 54 years are to be documented. This formative period established the political and social institutions that would shape the nation's future.
-
-### Presidential Era (1924-Present)
-
-The presidential system was formally established with the election of Herbert Woupou Mooson in 1924, marking the beginning of Moohfalanda's modern political era.
+Moohfalanda was established as a nation in 1924 with the election of Herbert Woupou Mooson as its first president on 1 January 1924. The nation was founded as a presidential republic from its inception, with democratic institutions established alongside the creation of the nation itself.
 
 ## Government and Politics
 

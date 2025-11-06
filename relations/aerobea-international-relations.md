@@ -2,7 +2,7 @@
 
 ## 🕯️ Geopolitical Identity
 
-Aerobea is the oldest functioning republic of the Fog-See world, founded in 1672. Its first president, Baahram Edward Lincoln the Elder, took office in 1701.
+Aerobea is the oldest functioning republic of the Fog-See world, founded in 1701. Its first president, Baahram Edward Lincoln the Elder, took office in 1701.
 
 Its culture blends constitutional idealism, technocratic governance, and Scrollist philosophy — the belief that knowledge and record-keeping are sacred civic duties.
 
@@ -36,7 +36,7 @@ The two nations maintain an open-border policy, shared scientific academies, and
 
 Aerobean explorers established early settlements in Moohfalanda in the 18th century under the Fitzflap prime-ministerial line.
 
-Moohfalanda was founded as an independent nation in 1870, but established its presidential republic in 1924, modelling its constitution on Aerobea's Runway Constitution.
+Moohfalanda was founded as an independent nation in 1924, establishing its presidential republic and modelling its constitution on Aerobea's Runway Constitution.
 
 Moohfalanda's presidents, especially the Mooson family, maintain deep academic ties with Peaville University.
 
