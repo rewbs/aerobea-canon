@@ -6,7 +6,7 @@ This repository contains the canonical lore for Saul's imaginary countries.
 
 - **[Countries](countries/README.md)** - Browse all countries with detailed histories, governments, and cultures
 - **[Historical Figures](figures/README.md)** - Explore biographies of presidents, prime ministers, and notable figures
-- `events/` - Major historical events and timelines (to be developed)
+- **[Events](events/README.md)** - Major historical events and timelines
 - `relations/` - International relations and treaties (to be developed)
 
 ## Quick Links
