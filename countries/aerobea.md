@@ -9,7 +9,7 @@ location: Island nation in European waters
 
 ## Overview
 
-Aerobea is an island nation founded in 1701 through the Peaville Protests and revolution that overthrew Emperor Chumble Vainbatter, establishing the Runway Republic. The country has experienced numerous changes in government, from its founding Whig leadership through various political movements including Conservative, Radical, Labour, Socialist, and even non-human leadership through the GSC (Great Species Coalition) and Feather First parties. The capital city of Peaville became known as the "Runway of the World" during the Golden Age.
+Aerobea is an island nation founded in 1701 through the Peaville Protests and revolution that transitioned from Emperor Chumble Vainbatter to King Benedict I, establishing the Runway Republic with a constitutional monarchy. The country has experienced numerous changes in government, from its founding Whig leadership through various political movements including Conservative, Radical, Labour, Socialist, and even non-human leadership through the GSC (Great Species Coalition) and Feather First parties. The capital city of Peaville became known as the "Runway of the World" during the Golden Age.
 
 ## Geography
 
@@ -19,14 +19,14 @@ Aerobea is an island nation founded in 1701 through the Peaville Protests and re
 
 ### Founding (1701)
 
-Aerobea was founded in 1701 when the Peaville Protests sparked the Aerobean Revolution, overthrowing Emperor Chumble Vainbatter. In 1702, Baahram Edward Lincoln the Elder became the first President of Aerobea, establishing the Runway Republic and its early democratic traditions. The first presidential election was held in 1701.
+Aerobea was founded in 1701 when the Peaville Protests sparked the Aerobean Revolution, transitioning from Emperor Chumble Vainbatter to King Benedict I while establishing presidential governance. In 1702, Baahram Edward Lincoln the Elder became the first President of Aerobea, establishing the Runway Republic and its early democratic traditions alongside the continuing monarchy. The first presidential election was held in 1701.
 
 ### Major Historical Eras
 
 #### Early Aerobea (1701-1761)
 The Founding and the Age of Presidents
-- **1701**: The Peaville Protests spark the Aerobean Revolution, overthrowing Emperor Chumble Vainbatter
-- **1702**: Baahram Edward Lincoln the Elder becomes first President, establishing the Runway Republic
+- **1701**: The Peaville Protests spark the Aerobean Revolution; Emperor Chumble Vainbatter's reign ends (October 1701), succeeded by King Benedict I (April 1701)
+- **1702**: Baahram Edward Lincoln the Elder becomes first President, establishing the Runway Republic alongside the constitutional monarchy
 - **1709**: Death of Spaghetti the Goat, First Lady and symbolic figure of early republican virtue
 - **1722**: Lincoln resigns, succeeded by Robert Crumbleton, who stabilizes the new government
 - **1731**: Assassination of President Ferito Beoe
@@ -35,7 +35,7 @@ The Founding and the Age of Presidents
 
 #### War of Avex (1761-1807)
 Conflict, Division, and the Rise of National Identity
-- **1761**: End of Nullglyph's presidency; the Avex Wars begin, pitting Aerobea against rival monarchies still loyal to Chumble's descendants
+- **1761**: End of Nullglyph's presidency; the Avex Wars begin, pitting Aerobea against rival monarchies during the reign of King Constantine (1759-1793)
 - **1780s**: The Nullglyphite uprisings bring internal division between Whigs and Nullglyphites
 - **1789**: The fall of Hactabin, during which Meowry Whisker Paws is lost, becomes a national legend
 - **1799**: The Peace of Baahmanro Treaty ends hostilities, cementing Aerobea's republican borders
@@ -49,16 +49,16 @@ Innovation, Expansion, and Flourishing Culture
 - **1821**: Historic six-day symbolic presidency of Feathery Quill (an owl), who died attempting to fly into a blimp
 - **1843-1851**: Presidency of Flann Woolbarrel, noted for his "Scroll Laws" and early infrastructure plans
 - **1851**: Myreech Oiaboy's presidency begins, bringing modernization and the establishment of PEA (Peaville Express Airways)—the first organized air service. The capital, Peaville, becomes known as the "Runway of the World"
-- **1852**: Discovery of the forgotten Palace of Lightfeather during scroll archive expansion—a 17th-century palace walled up since 1701, complete with elderly caretaker Gerald who'd been waiting 153 years for the Emperor to return
-- **1853**: The Accidental Monarchy Restoration—a clerical error in the scroll bureaucracy leads to the establishment of Aerobea's ceremonial monarchy under King Loo I, borrowed from Nitopia to fulfill a legally binding requisition filed in triplicate
+- **1852**: Discovery of the forgotten Palace of Lightfeather during scroll archive expansion—a 17th-century palace walled up since 1701, complete with elderly caretaker Gerald who'd been waiting 153 years for a monarch to return
+- **1853**: The Accidental Ceremonial Protocol Formalization—a clerical error in the scroll bureaucracy leads to the formalization of Queen Isabella I's ceremonial duties and her relocation to the newly rediscovered Palace of Lightfeather. Isabella I, who had been reigning since 1827, was now officially tasked with ribbon cuttings and airship christenings while presidents continued to govern
 
 #### Good Scroll Era (1853-1914)
 Codification and the Bureaucratic Republic
 - The "Scroll Bureaucracy" refines Aerobean governance with layers of record-keeping, archives, and committees
-- **1853**: King Loo I begins ceremonial reign at Palace of Lightfeather, handling ribbon cuttings and airship christenings while presidents govern
+- **1853**: Queen Isabella I begins formal ceremonial duties at Palace of Lightfeather, handling ribbon cuttings and airship christenings while presidents govern
 - **1870s-1890s**: Era of High Civil Design, when cities like Crumbleton and Baahmanro Park are rebuilt in the airy neoclassical style
 - Education and science flourish—this is when figures like Whiskington and McSnort rise as reformers of public education
-- **1892**: King Loo I dies after opening 1,247 buildings; succeeded by his son Loo II, establishing the Loo dynasty
+- **1899**: Queen Isabella I dies (February 1899) after decades of ceremonial service; succeeded by King Henry III (February 1899-September 1907)
 
 #### World War I (1914-1922)
 Global Conflict and the Aerobean Airfront
@@ -89,10 +89,10 @@ Recovery, Modernization, and Cold Sky Diplomacy
 Technocracy, Stability, and Quiet Strength
 - **1981-2023**: Presidency of Herbert Lovvbert, the longest-serving leader, overseeing modernization and the digitization of archives
 - PEA becomes part of Oneworld, linking Aerobea globally
-- **1928-1971**: King Loo III served during WWII and Cold War, perfecting ceremonial fog-standing
-- **1971-2003**: King Loo IV modernized royal waving for television age
-- **2003-Present**: King Loo V reigns ceremonially from the Palace of Lightfeather, handling ribbon cuttings and royal duties while presidents govern; pioneered remote waving during COVID-19
-- Aerobea today is a stable, technologically advanced republic that successfully balances presidential governance with a ceremonial monarchy—the latter being the result of history's most committed bureaucratic joke
+- **1937-1981**: King Leopold II served during WWII and Cold War, perfecting ceremonial fog-standing
+- **1981-2024**: Queen Isabella II modernized royal waving for television age; pioneered remote waving during COVID-19 (died June 2024)
+- **2024-Present**: King Leopold III reigns ceremonially from the Palace of Lightfeather, handling ribbon cuttings and royal duties while presidents govern
+- Aerobea today is a stable, technologically advanced republic that successfully balances presidential governance with a ceremonial monarchy—the latter being the result of history's most committed bureaucratic arrangement
 
 ## Government and Politics
 
@@ -102,16 +102,17 @@ Aerobea operates as a presidential republic with regular elections. The presiden
 
 However, since 1853, Aerobea also maintains a ceremonial monarchy that handles purely symbolic duties. This unique system arose from a bureaucratic error and has been maintained ever since, making Aerobea simultaneously a republic with an elected president and a kingdom with a hereditary monarch—the former governs, the latter opens buildings.
 
-### Ceremonial Monarchy (1853-Present)
+### Ceremonial Monarchy (1827-Present)
 
-The Aerobean ceremonial monarchy was accidentally established in 1853 when a scroll clerk's filing error created a legally binding requisition for "one (1) ceremonial monarch." Rather than violate the sacred principle of scroll bureaucracy, Parliament borrowed King Loo I from Nitopia's royal family to fill the position.
+The Aerobean ceremonial monarchy formalized its ceremonial role in 1853 when a scroll clerk's filing error created a legally binding requisition for formal ceremonial duties. Queen Isabella I, who had been reigning since 1827, was officially relocated to the newly rediscovered Palace of Lightfeather to handle ceremonial obligations while presidents governed.
 
-**The Loo Dynasty:**
-- **King Loo I** (1853-1892): The Accidental—established ceremonial protocols, opened 1,247 buildings
-- **King Loo II** (1892-1928): The Diligent—perfected the royal wave, served through WWI
-- **King Loo III** (1928-1971): The Foggy—served through WWII and Cold War, mastered ceremonial fog-standing
-- **King Loo IV** (1971-2003): The Modern—adapted monarchy for television age
-- **King Loo V** (2003-Present): The Contemporary—current monarch, pioneered remote waving during COVID-19
+**The Ceremonial Monarchs:**
+- **Queen Isabella I** (1827-1899): Formalized ceremonial protocols starting in 1853, handled ribbon cuttings and airship christenings
+- **King Henry III** (1899-1907): Brief reign during industrial expansion
+- **King Leopold I** (1907-1937): Served through WWI and early 20th century
+- **King Leopold II** (1937-1981): Served through WWII and Cold War, mastered ceremonial fog-standing
+- **Queen Isabella II** (1981-2024): Modernized royal duties for television age, pioneered remote waving during COVID-19
+- **King Leopold III** (2024-Present): Current monarch
 
 **Ceremonial Duties (No Political Power):**
 - Opening buildings and cutting ribbons
@@ -130,7 +131,7 @@ The Ceremonial Monarch Act of 1853 strictly prohibits the monarch from:
 - Making any decisions beyond what color ribbon to cut
 - Attempting to govern (penalty: demotion to Fog Quality Monitor)
 
-King Loo V serves alongside the current President (post-Herbert Lovvbert, 2023-present), maintaining the absurd but beloved tradition that began 172 years ago with a filing error.
+King Leopold III serves alongside the current President (post-Herbert Lovvbert, 2023-present), maintaining the tradition that began nearly 200 years ago when the monarchy's ceremonial role was formalized through a filing error.
 
 ### Timeline of Presidents
 
