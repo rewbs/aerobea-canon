@@ -89,7 +89,7 @@ Commander Nullglyph's popularity from ending the radical regime led to his re-el
 ### Commander Nullglyph (Whig)
 - **Served:** 1761 - 9 April 1777; 4 September 1777 - 1779; 1785 - 1787
 - **Birth:** 30 June 1717
-- **Death:** 1797
+- **Death:** 29 April 1797
 - **Role:** Overthrown president; leader of counter-coup; restored president
 - **Actions:**
   - Lost power to Di Marison in April 1777

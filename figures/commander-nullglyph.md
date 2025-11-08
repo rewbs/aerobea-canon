@@ -1,7 +1,7 @@
 ---
 name: Commander Nullglyph
 birth: 30 June 1717
-death: 1797
+death: 29 April 1797
 nationality: Aerobea
 role: President of Aerobea (three terms, 1761-1777, 1777-1779, 1785-1787)
 species: human
@@ -12,7 +12,7 @@ gender: male
 
 ## Overview
 
-Commander Nullglyph was a Whig politician and military leader who served as President of Aerobea for three non-consecutive terms (1761-1777, 1777-1779, 1785-1787). During his presidencies, Aerobea developed its early institutions and air fleets while navigating the War of Avex, laying the groundwork for the nation's future prosperity. After his final term ended in 1787, he founded the Nullglyphite movement, inspiring reformists and creating lasting political division between Whigs and Nullglyphites. He died in 1797 at age 79.
+Commander Nullglyph was a Whig politician and military leader who served as President of Aerobea for three non-consecutive terms (1761-1777, 1777-1779, 1785-1787). During his presidencies, Aerobea developed its early institutions and air fleets while navigating the War of Avex, laying the groundwork for the nation's future prosperity. After his final term ended in 1787, he founded the Nullglyphite movement, inspiring reformists and creating lasting political division between Whigs and Nullglyphites. He died on 29 April 1797 at age 79.
 
 ## Early Life
 
@@ -58,7 +58,7 @@ Immediately after his final presidency ended in 1787, at age 70, Nullglyph forma
 
 **The 1780s-1790s - Nullglyphite Uprisings:**
 
-During the late 1780s and into the 1790s, the Nullglyphite uprisings brought internal division between traditional Whigs and the emerging Nullglyphite faction, creating significant political tension in Aerobea during the War of Avex period. Nullglyph remained politically active until his death in 1797.
+During the late 1780s and into the 1790s, the Nullglyphite uprisings brought internal division between traditional Whigs and the emerging Nullglyphite faction, creating significant political tension in Aerobea during the War of Avex period. Nullglyph remained politically active until his death on 29 April 1797.
 
 ## Personal Life
 
@@ -68,7 +68,7 @@ He never publicly discussed family or personal relationships, maintaining a focu
 
 ## Death and Legacy
 
-Commander Nullglyph died in 1797 at age 79, a decade after founding the Nullglyphite movement. His death came during the ongoing War of Avex, though he had lived to see his political reforms take root.
+Commander Nullglyph died on 29 April 1797 at age 79, a decade after founding the Nullglyphite movement. His death came during the ongoing War of Avex, though he had lived to see his political reforms take root.
 
 His legacy is significant and multifaceted:
 
@@ -106,7 +106,7 @@ He remains a towering figure in Aerobean history—a president who served three 
 - **1785-1787:** Third and final presidential term
 - **1787:** Founded the Nullglyphite movement at age 70
 - **1787-1797:** Post-presidential period; remained politically active during Nullglyphite uprisings
-- **1797:** Died at age 79
+- **29 April 1797:** Died at age 79
 
 ## Related Entities
 

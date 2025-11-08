@@ -181,7 +181,7 @@ King Leopold III serves alongside the current President (post-Herbert Lovvbert, 
 #### 7. Commander Nullglyph (Whig)
 - **Served:** 1761-1777, 1777-1779, 1785-1787 (three separate periods)
 - **Birth:** 30 June 1717
-- **Death:** 1797 (heart failure)
+- **Death:** 29 April 1797 (heart failure)
 - **How ended:** Retired after third term
 - **Note:** Nullglyph served three non-consecutive presidential periods. During his first term (1761-1777), Aerobea developed its early institutions and air fleets while fighting the Avex Wars. He returned to power in 1777 after ousting the radical Emory Di Marison, served until 1779, then had a third term from 1785-1787. After his final presidency, he founded the Nullglyphite movement in 1787, inspiring later reformists and bringing internal division between Whigs and Nullglyphites in the 1780s.
 - Notable for developing Aerobea's early institutions, air fleets, and founding the influential Nullglyphite political movement.
