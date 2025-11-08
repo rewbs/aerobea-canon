@@ -30,7 +30,8 @@ The Founding and the Age of Presidents
 - **1709**: Death of Spaghetti the Goat, First Lady and symbolic figure of early republican virtue
 - **1722**: Lincoln resigns, succeeded by Robert Crumbleton, who stabilizes the new government
 - **1731**: Assassination of President Ferito Beoe
-- **1761-1777**: Commander Nullglyph's first presidency, during which Aerobea develops its early institutions and air fleets
+- **1759**: King Benedict I's reign ends; succeeded by King Constantine (1759-1793)
+- **1761-1777**: Commander Nullglyph's first presidency, during which Aerobea develops its early institutions and air fleets under King Constantine's symbolic reign
 - **1787**: Nullglyph founds the Nullglyphite movement after his final presidency, inspiring later reformists
 
 #### War of Avex (1761-1807)
@@ -38,6 +39,8 @@ Conflict, Division, and the Rise of National Identity
 - **1761**: Commander Nullglyph begins his presidency; the Avex Wars begin, pitting Aerobea against rival monarchies during the reign of King Constantine (1759-1793)
 - **1780s**: The Nullglyphite uprisings bring internal division between Whigs and Nullglyphites
 - **1789**: The fall of Hactabin, during which Meowry Whisker Paws is lost, becomes a national legend
+- **1793**: King Constantine's reign ends; succeeded by King Henry I (1793-1796)
+- **1796**: King Henry I's reign ends; succeeded by King Henry II (1796-1827)
 - **1799**: The Peace of Baahmanro Treaty ends hostilities, cementing Aerobea's republican borders
 
 #### Golden Age of Aerobea (1807-1853)
@@ -47,6 +50,7 @@ Innovation, Expansion, and Flourishing Culture
 - **1818**: Poisoning of President Jack Prawn
 - **1820-1840**: Presidency of Oreo Joshon Beoer, who ushers in industrial reforms and a golden cultural age
 - **1821**: Historic six-day symbolic presidency of Feathery Quill (an owl), who died attempting to fly into a blimp
+- **1827**: King Henry II's reign ends; succeeded by Queen Isabella I (1827-1899), who would become Aerobea's longest-reigning monarch
 - **1843-1851**: Presidency of Flann Woolbarrel, noted for his "Scroll Laws" and early infrastructure plans
 - **1851**: Myreech Oiaboy's presidency begins, bringing modernization and the establishment of PEA (Peaville Express Airways)—the first organized air service. The capital, Peaville, becomes known as the "Runway of the World"
 - **1852**: Discovery of the forgotten Palace of Lightfeather during scroll archive expansion—a 17th-century palace walled up since 1701, complete with elderly caretaker Gerald who'd been waiting 153 years for a monarch to return
@@ -102,11 +106,21 @@ Aerobea operates as a presidential republic with regular elections. The presiden
 
 However, since 1853, Aerobea also maintains a ceremonial monarchy that handles purely symbolic duties. This unique system arose from a bureaucratic error and has been maintained ever since, making Aerobea simultaneously a republic with an elected president and a kingdom with a hereditary monarch—the former governs, the latter opens buildings.
 
-### Ceremonial Monarchy (1827-Present)
+### Constitutional Monarchy (1701-Present)
 
-The Aerobean ceremonial monarchy formalized its ceremonial role in 1853 when a scroll clerk's filing error created a legally binding requisition for formal ceremonial duties. Queen Isabella I, who had been reigning since 1827, was officially relocated to the newly rediscovered Palace of Lightfeather to handle ceremonial obligations while presidents governed.
+Aerobea has maintained a constitutional monarchy alongside presidential governance since 1701, when the Aerobean Revolution transitioned from Emperor Chumble Vainbatter to King Benedict I while establishing the office of President.
 
-**The Ceremonial Monarchs:**
+**Early Constitutional Monarchs (1701-1827):**
+- **King Benedict I** (1701-1759): First constitutional monarch, reigned during early republic and institution building
+- **King Constantine** (1759-1793): Reigned during War of Avex period, saw Aerobea's borders solidified
+- **King Henry I** (1793-1796): Brief reign during post-war transition
+- **King Henry II** (1796-1827): Presided over early Golden Age developments
+
+**Ceremonial Monarchy Formalization (1853-Present):**
+
+In 1853, a scroll clerk's filing error created a legally binding requisition for formal ceremonial duties. Queen Isabella I, who had been reigning since 1827, was officially relocated to the newly rediscovered Palace of Lightfeather to handle ceremonial obligations while presidents governed. This formalized what had been an informal arrangement—monarchs reigned symbolically while presidents governed.
+
+**Modern Ceremonial Monarchs:**
 - **Queen Isabella I** (1827-1899): Formalized ceremonial protocols starting in 1853, handled ribbon cuttings and airship christenings
 - **King Henry III** (1899-1907): Brief reign during industrial expansion
 - **King Leopold I** (1907-1937): Served through WWI and early 20th century

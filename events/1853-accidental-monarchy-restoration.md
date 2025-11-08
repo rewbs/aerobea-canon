@@ -17,7 +17,16 @@ This event marked the formalization of the constitutional monarchy's ceremonial 
 
 ### Post-War of Avex Republicanism (1807-1850s)
 
-Following the end of the War of Avex (1807), Aerobea entered an era of confident republicanism with presidential governance. The constitutional monarchy, established in 1701 with the transition from Chumble Vainbatter to Benedict I, continued but lacked formal definition of ceremonial vs. governmental roles. Queen Isabella I had been reigning since 1827, but the precise nature of royal duties remained uncodified.
+Following the end of the War of Avex (1807), Aerobea entered an era of confident republicanism with presidential governance. The constitutional monarchy, established in 1701 with the transition from Emperor Chumble Vainbatter to King Benedict I, had continued through five monarchs but lacked formal definition of ceremonial vs. governmental roles.
+
+**The Constitutional Monarchs (1701-1850s):**
+- King Benedict I (1701-1759): Established constitutional monarchy alongside presidency
+- King Constantine (1759-1793): Reigned during War of Avex
+- King Henry I (1793-1796): Brief post-war reign
+- King Henry II (1796-1827): Presided over early Golden Age
+- Queen Isabella I (1827-1899): Reigning monarch in 1853
+
+By the 1850s, Queen Isabella I had been reigning for 26 years, but the precise nature of royal duties remained uncodified—a situation the 1853 scroll bureaucracy error would accidentally resolve.
 
 **Scroll Bureaucracy Expansion**: The Good Scroll Era (1853-1914) saw the refinement of Aerobean governance through extensive record-keeping, archives, and committees. Every government function was meticulously documented, catalogued, and filed.
 
@@ -195,16 +204,23 @@ Queen Isabella I died in February 1899 at age 97 (having reigned 72 years total,
 
 She was succeeded by King Henry III in February 1899, continuing the ceremonial monarchy tradition.
 
-## The Ceremonial Monarchy Succession (1827-Present)
+## The Constitutional Monarchy Succession (1701-Present)
 
-### The Monarchs
+### Complete Succession
 
-**Queen Isabella I** (1827-1899, formalized 1853): Established ceremonial protocols at Palace of Lightfeather
-**King Henry III** (1899-1907): Brief but dignified reign during industrial expansion
-**King Leopold I** (1907-1937): Served through WWI, refined ceremonial duties
-**King Leopold II** (1937-1981): Served through WWII and Cold War, perfected ceremonial fog-standing
-**Queen Isabella II** (1981-2024): Modernized for television age, pioneered remote waving during COVID-19
-**King Leopold III** (2024-Present): Currently serving
+**Early Constitutional Monarchs (1701-1827):**
+- **King Benedict I** (1701-1759): First constitutional monarch, established dual system with presidency
+- **King Constantine** (1759-1793): Reigned during War of Avex
+- **King Henry I** (1793-1796): Brief post-war reign
+- **King Henry II** (1796-1827): Early Golden Age monarch
+
+**Ceremonial Period (1827-Present, formalized 1853):**
+- **Queen Isabella I** (1827-1899, formalized 1853): Established ceremonial protocols at Palace of Lightfeather
+- **King Henry III** (1899-1907): Brief but dignified reign during industrial expansion
+- **King Leopold I** (1907-1937): Served through WWI, refined ceremonial duties
+- **King Leopold II** (1937-1981): Served through WWII and Cold War, perfected ceremonial fog-standing
+- **Queen Isabella II** (1981-2024): Modernized for television age, pioneered remote waving during COVID-19
+- **King Leopold III** (2024-Present): Currently serving
 
 ### Relationship with Allied Monarchies
 
