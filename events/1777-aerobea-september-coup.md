@@ -16,7 +16,7 @@ The 1777 Aerobea September Coup was a counter-revolutionary uprising that ended 
 
 ### Commander Nullglyph's First Presidency
 
-Commander Nullglyph (Whig Party) had served as Aerobea's 7th President from 26 October 1761 to 18 November 1777. His administration was popular and brought stability to the island nation. However, the election of 1777 saw a dramatic shift in Aerobea's politics.
+Commander Nullglyph (Whig Party) had served as Aerobea's 7th President from 1761 to April 1777. His administration was popular and brought stability to the island nation during the early years of the War of Avex. However, in April 1777, a dramatic shift occurred in Aerobea's politics.
 
 ### Rise of Radical Politics
 
@@ -66,7 +66,7 @@ On 9 April 1777, Emory Di Marison and the Radical Party seized power through ext
 
 ### Commander Nullglyph's Restoration (1777-1779)
 
-**4 September 1777 - 18 November 1779:** Second presidential term
+**4 September 1777 - 1779:** Second presidential term
 - Restored democratic institutions
 - Reconciliation efforts with moderate opposition
 - Punishment of radical leaders
@@ -82,14 +82,14 @@ On 9 April 1777, Emory Di Marison and the Radical Party seized power through ext
 
 ### Later Nullglyph Presidency (1785-1787)
 
-Commander Nullglyph's popularity from ending the radical regime led to his re-election for a third term (18 November 1785 - 18 November 1787), making him one of Aerobea's most enduring political figures.
+Commander Nullglyph's popularity from ending the radical regime led to his re-election for a third term (1785 - 1787), making him one of Aerobea's most enduring political figures.
 
 ## Key Figures
 
 ### Commander Nullglyph (Whig)
-- **Served:** 26 October 1761 - 9 April 1777; 4 September 1777 - 18 November 1779; 18 November 1785 - 18 November 1787
+- **Served:** 1761 - 9 April 1777; 4 September 1777 - 1779; 1785 - 1787
 - **Birth:** 30 June 1717
-- **Death:** 29 April 1797
+- **Death:** 1797
 - **Role:** Overthrown president; leader of counter-coup; restored president
 - **Actions:**
   - Lost power to Di Marison in April 1777
@@ -141,7 +141,7 @@ Additional military and political leaders involved in the coup to be documented,
 ### Immediate Consequences
 
 **Political:**
-- Commander Nullglyph restored to presidency (4 September 1777 - 18 November 1779)
+- Commander Nullglyph restored to presidency (4 September 1777 - 1779)
 - Radical Party destroyed as political force
 - Whig Party dominance reasserted
 - Democratic institutions restored
@@ -267,10 +267,10 @@ The coup transformed Commander Nullglyph from a competent president into a legen
 - Swift action minimized violence and disruption
 
 **Three-Term Legend:**
-- First interrupted term (1761-1777): 16 years of stability
-- Second restoration term (1777-1779): Healing and reconciliation
+- First interrupted term (1761-April 1777): ~16 years of stability
+- Second restoration term (September 1777-1779): Healing and reconciliation
 - Third elected term (1785-1787): Elder statesman
-- Total: 18 years of service across 26-year period
+- Total: ~20 years of service across 26-year period
 
 ### The Martyrs of the Radical Regime
 

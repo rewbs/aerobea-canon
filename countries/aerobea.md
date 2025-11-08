@@ -30,12 +30,12 @@ The Founding and the Age of Presidents
 - **1709**: Death of Spaghetti the Goat, First Lady and symbolic figure of early republican virtue
 - **1722**: Lincoln resigns, succeeded by Robert Crumbleton, who stabilizes the new government
 - **1731**: Assassination of President Ferito Beoe
-- **1745-1761**: Commander Nullglyph's two presidential terms, during which Aerobea develops its early institutions and air fleets
-- **1787**: Nullglyph founds the Nullglyphite movement, inspiring later reformists
+- **1761-1777**: Commander Nullglyph's first presidency, during which Aerobea develops its early institutions and air fleets
+- **1787**: Nullglyph founds the Nullglyphite movement after his final presidency, inspiring later reformists
 
 #### War of Avex (1761-1807)
 Conflict, Division, and the Rise of National Identity
-- **1761**: End of Nullglyph's presidency; the Avex Wars begin, pitting Aerobea against rival monarchies during the reign of King Constantine (1759-1793)
+- **1761**: Commander Nullglyph begins his presidency; the Avex Wars begin, pitting Aerobea against rival monarchies during the reign of King Constantine (1759-1793)
 - **1780s**: The Nullglyphite uprisings bring internal division between Whigs and Nullglyphites
 - **1789**: The fall of Hactabin, during which Meowry Whisker Paws is lost, becomes a national legend
 - **1799**: The Peace of Baahmanro Treaty ends hostilities, cementing Aerobea's republican borders
@@ -179,11 +179,11 @@ King Leopold III serves alongside the current President (post-Herbert Lovvbert, 
 - First Labour president, representing working-class interests.
 
 #### 7. Commander Nullglyph (Whig)
-- **Served:** 18 November 1745 - 1761 (two presidential terms); later periods 1777-1779, 1785-1787
+- **Served:** 1761-1777, 1777-1779, 1785-1787 (three separate periods)
 - **Birth:** 30 June 1717
-- **Death:** After 1787 (heart failure)
-- **How ended:** Retired
-- **Note:** According to canon, Nullglyph served two presidential terms from 1745-1761, during which Aerobea developed its early institutions and air fleets. In 1787, after retirement, he founded the Nullglyphite movement, inspiring later reformists and bringing internal division between Whigs and Nullglyphites in the 1780s. Some sources indicate additional service periods in 1777-1779 and 1785-1787, though these may conflict with the canonical timeline.
+- **Death:** 1797 (heart failure)
+- **How ended:** Retired after third term
+- **Note:** Nullglyph served three non-consecutive presidential periods. During his first term (1761-1777), Aerobea developed its early institutions and air fleets while fighting the Avex Wars. He returned to power in 1777 after ousting the radical Emory Di Marison, served until 1779, then had a third term from 1785-1787. After his final presidency, he founded the Nullglyphite movement in 1787, inspiring later reformists and bringing internal division between Whigs and Nullglyphites in the 1780s.
 - Notable for developing Aerobea's early institutions, air fleets, and founding the influential Nullglyphite political movement.
 
 #### 8. Emory Di Marison (Radical)
