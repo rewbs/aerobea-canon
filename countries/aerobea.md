@@ -93,11 +93,9 @@ Recovery, Modernization, and Cold Sky Diplomacy
 Technocracy, Stability, and Quiet Strength
 - **1981-2023**: Presidency of Herbert Lovvbert, the longest-serving leader, overseeing modernization and the digitization of archives
 - PEA becomes part of Oneworld, linking Aerobea globally
-- **1907-1928**: King Leopold II (b. 1830, d. 1928) refined ceremonial protocols
-- **1928-1971**: King Leopold III (b. 1884, d. 1971) served through WWII and Cold War, perfecting ceremonial fog-standing
-- **1971-2003**: King Leopold IV (b. 1914, d. 2003) modernized royal duties for television age
-- **2003-2024**: King Leopold V (b. 1946, d. 2024) pioneered remote waving during COVID-19 (died June 2024)
-- **2024-Present**: King Leopold VI (b. 1980) reigns ceremonially from the Palace of Lightfeather, handling ribbon cuttings and royal duties while presidents govern
+- **1937-1981**: King Leopold II served during WWII and Cold War, perfecting ceremonial fog-standing
+- **1981-2024**: Queen Isabella II modernized royal waving for television age; pioneered remote waving during COVID-19 (died June 2024)
+- **2024-Present**: King Leopold III reigns ceremonially from the Palace of Lightfeather, handling ribbon cuttings and royal duties while presidents govern
 - Aerobea today is a stable, technologically advanced republic that successfully balances presidential governance with a ceremonial monarchy—the latter being the result of history's most committed bureaucratic arrangement
 
 ## Government and Politics
@@ -125,12 +123,10 @@ In 1853, a scroll clerk's filing error created a legally binding requisition for
 **Modern Ceremonial Monarchs:**
 - **Queen Isabella I** (1827-1899): Formalized ceremonial protocols starting in 1853, handled ribbon cuttings and airship christenings
 - **King Henry III** (1899-1907): Brief reign during industrial expansion
-- **King Leopold I** (1907): Very brief reign, succeeded immediately by Leopold II
-- **King Leopold II** (1907-1928, b. 1830-d. 1928): Refined ceremonial protocols
-- **King Leopold III** (1928-1971, b. 1884-d. 1971): Served through WWII and Cold War, mastered ceremonial fog-standing
-- **King Leopold IV** (1971-2003, b. 1914-d. 2003): Modernized royal duties for television age
-- **King Leopold V** (2003-2024, b. 1946-d. 2024): Pioneered remote waving during COVID-19
-- **King Leopold VI** (2024-Present, b. 1980): Current monarch
+- **King Leopold I** (1907-1937): Served through WWI and early 20th century
+- **King Leopold II** (1937-1981): Served through WWII and Cold War, mastered ceremonial fog-standing
+- **Queen Isabella II** (1981-2024): Modernized royal duties for television age, pioneered remote waving during COVID-19
+- **King Leopold III** (2024-Present): Current monarch
 
 **Ceremonial Duties (No Political Power):**
 - Opening buildings and cutting ribbons
@@ -149,7 +145,7 @@ The Ceremonial Monarch Act of 1853 strictly prohibits the monarch from:
 - Making any decisions beyond what color ribbon to cut
 - Attempting to govern (penalty: demotion to Fog Quality Monitor)
 
-King Leopold VI serves alongside the current President (post-Herbert Lovvbert, 2023-present), maintaining the tradition that began nearly 200 years ago when the monarchy's ceremonial role was formalized through a filing error.
+King Leopold III serves alongside the current President (post-Herbert Lovvbert, 2023-present), maintaining the tradition that began nearly 200 years ago when the monarchy's ceremonial role was formalized through a filing error.
 
 ### Timeline of Presidents
 
@@ -411,7 +407,7 @@ King Leopold VI serves alongside the current President (post-Herbert Lovvbert, 2
 - **Birth:** To be determined
 - **Death:** To be determined or living
 - **How ended:** Completed term
-- The longest-serving leader in Aerobea's history, overseeing modernization and the digitization of archives during the Modern Era. His 42-year presidency promoted unity and technological innovation, transforming Aerobea into a stable, technologically advanced republic while maintaining the ceremonial monarchy under Leopold IV (1971-2003) and Leopold V (2003-2024) at the Palace of Lightfeather.
+- The longest-serving leader in Aerobea's history, overseeing modernization and the digitization of archives during the Modern Era. His 42-year presidency promoted unity and technological innovation, transforming Aerobea into a stable, technologically advanced republic while maintaining the ceremonial monarchy under Loo V at the Palace of Lightfeather.
 
 ### Political Parties
 

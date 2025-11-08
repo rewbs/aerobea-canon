@@ -11,7 +11,7 @@ countries_involved: [Aerobea]
 
 In what historians call "the most Aerobean solution to a problem that didn't need solving," the ceremonial duties of the Aerobean monarchy were accidentally formalized in 1853 through a combination of bureaucratic error, practical necessity, and architectural discovery. Queen Isabella I, who had been reigning since 1827, was officially relocated to the newly rediscovered Palace of Lightfeather and assigned specific ceremonial obligations, formalizing the separation between royal ceremonial duties and presidential governance.
 
-This event marked the formalization of the constitutional monarchy's ceremonial role, establishing protocols that continue under the current King Leopold VI at the Palace of Lightfeather.
+This event marked the formalization of the constitutional monarchy's ceremonial role, establishing protocols that continue under the current King Leopold III at the Palace of Lightfeather.
 
 ## Background: The Problem That Wasn't
 
@@ -217,12 +217,10 @@ She was succeeded by King Henry III in February 1899, continuing the ceremonial 
 **Ceremonial Period (1827-Present, formalized 1853):**
 - **Queen Isabella I** (1827-1899, formalized 1853): Established ceremonial protocols at Palace of Lightfeather
 - **King Henry III** (1899-1907): Brief but dignified reign during industrial expansion
-- **King Leopold I** (1907): Very brief reign, succeeded immediately by Leopold II
-- **King Leopold II** (1907-1928, b. 1830-d. 1928): Refined ceremonial protocols
-- **King Leopold III** (1928-1971, b. 1884-d. 1971): Served through WWII and Cold War, perfected ceremonial fog-standing
-- **King Leopold IV** (1971-2003, b. 1914-d. 2003): Modernized for television age
-- **King Leopold V** (2003-2024, b. 1946-d. 2024): Pioneered remote waving during COVID-19
-- **King Leopold VI** (2024-Present, b. 1980): Currently serving
+- **King Leopold I** (1907-1937): Served through WWI, refined ceremonial duties
+- **King Leopold II** (1937-1981): Served through WWII and Cold War, perfected ceremonial fog-standing
+- **Queen Isabella II** (1981-2024): Modernized for television age, pioneered remote waving during COVID-19
+- **King Leopold III** (2024-Present): Currently serving
 
 ### Relationship with Allied Monarchies
 
@@ -238,7 +236,7 @@ The rediscovered palace serves as official royal residence. Features include:
 - The Gerald Museum (honoring the 153-year caretaker, died 1857)
 - Hall of Opened Buildings (photographs of every opening)
 - The Ceremonial Scissors Gallery (gold-plated collection)
-- Hat Room (now 94 hats, Leopold VI's head fits 3)
+- Hat Room (now 94 hats, Loo V's head fits 3)
 - Royal Wave Practice Facility
 - The Throne of Considerable Comfort (still comfortable)
 
@@ -250,9 +248,9 @@ The Ceremonial Monarch Act of 1853 remains in force with minor amendments:
 
 **2015 Amendment**: Ceremonial Monarchs may now tweet, but only about weather, fog density, and buildings they've opened.
 
-**2020 Amendment**: During COVID-19, ribbon cuttings permitted via Zoom. King Leopold V pioneered "remote waving."
+**2020 Amendment**: During COVID-19, ribbon cuttings permitted via Zoom. Queen Isabella II pioneered "remote waving."
 
-**Current Status**: King Leopold VI continues serving alongside President (post-Herbert Lovvbert, 2023-present), maintaining tradition of ceremonial duties while presidents govern.
+**Current Status**: King Leopold III continues serving alongside President (post-Herbert Lovvbert, 2023-present), maintaining tradition of ceremonial duties while presidents govern.
 
 ## Historical Significance
 
@@ -274,14 +272,14 @@ The accidental monarchy restoration perfectly captures Aerobean character:
 **Dr. Woolsworth Scroll** (National Archives, 2022):
 > "The 1853 formalization demonstrates the Scroll System's greatest strength and weakness: total commitment to filed triplicate forms, regardless of common sense."
 
-**King Leopold VI** (2024 interview):
+**King Leopold III** (2024 interview):
 > "I've opened 127 buildings already this year. Queen Isabella I established these protocols 171 years ago. The tradition continues, absurd as it began."
 
 ## Related Documents
 
 - [Aerobea](../countries/aerobea.md) - Country overview including modern monarchy
 - [Nitopia](../countries/nitopia.md) - Allied nation relations
-- [Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Leopold III's ceremonial role in signing
+- [Fog-See Alliance Formation](1954-fog-see-alliance-formation.md) - Leopold II's ceremonial role in signing
 - Commander Nullglyph - Served during early constitutional monarchy period
 
 ## Sources
@@ -292,7 +290,7 @@ The accidental monarchy restoration perfectly captures Aerobean character:
 - National Archives, Requisition Form #847-B (filed in triplicate)
 - "A History of Accidental Governance" - Prof. Beaksley, 1934
 - Palace of Lightfeather Museum Archives
-- Interview with King Leopold VI, 2024
+- Interview with King Leopold III, 2024
 
 ---
 
